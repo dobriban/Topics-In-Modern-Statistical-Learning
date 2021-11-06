@@ -60,7 +60,7 @@ Book: [Conformal Prediction for Reliable Machine Learning](https://www.sciencedi
 
 ## Lectures
 
-Lectures 1 and 2: Introduction and uncertainty quantification ([jackknife+](https://github.com/dobriban/Topics-in-deep-learning/blob/master/Stat%20991%20presentations/Fall%202019/Slides/BarberSlides-whoa-psi-2019.pdf), and [Pearce at al, 2018](http://proceedings.mlr.press/v80/pearce18a.html)), presented by Edgar Dobriban. 
+Lectures 1 and 2: Introduction. Presented by Edgar Dobriban. 
 
 ## Other materials
 
@@ -70,6 +70,6 @@ Lectures 1 and 2: Introduction and uncertainty quantification ([jackknife+](http
 
 [NeurIPS 2020 Tutorial on Practical Uncertainty Estimation and Out-of-Distribution Robustness in Deep Learning](https://nips.cc/virtual/2020/public/tutorial_0f190e6e164eafe66f011073b4486975.html)
 
-
+### Probability background
 
 
