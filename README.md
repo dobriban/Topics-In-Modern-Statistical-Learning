@@ -35,11 +35,17 @@ This is a seminar class at UPenn, surveying advanced topics in statistical learn
 
 ### Conformal prediction++
 
+[Learning by Transduction](https://arxiv.org/abs/1301.7375)
+
+[A Tutorial on Conformal Prediction](https://www.jmlr.org/papers/v9/shafer08a.html)
+
 [Distribution-Free Predictive Inference For Regression](https://arxiv.org/abs/1604.04173)
 
 [Predictive inference with the jackknife+](https://arxiv.org/abs/1905.02928). [Slides](https://github.com/dobriban/Topics-in-deep-learning/blob/master/Stat%20991%20presentations/Fall%202019/Slides/BarberSlides-whoa-psi-2019.pdf). 
 
 [Nested conformal prediction and quantile out-of-bag ensemble methods](https://arxiv.org/abs/1910.10562)
+
+[Exchangeability, Conformal Prediction, and Rank Tests](https://arxiv.org/abs/2005.06095)
 
 ### Prediction sets
 
@@ -60,7 +66,7 @@ Lectures 1 and 2: Introduction and uncertainty quantification ([jackknife+](http
 
 [Workshop on Distribution-Free Uncertainty Quantification at ICML 2021](https://sites.google.com/berkeley.edu/dfuq21)
 
-
+[NeurIPS 2020 Tutorial on Practical Uncertainty Estimation and Out-of-Distribution Robustness in Deep Learning](https://nips.cc/virtual/2020/public/tutorial_0f190e6e164eafe66f011073b4486975.html)
 
 
 
