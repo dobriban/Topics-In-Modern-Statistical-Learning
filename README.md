@@ -81,6 +81,8 @@ Book: [Conformal Prediction for Reliable Machine Learning](https://www.sciencedi
 
 Lectures 1 and 2: Introduction. Presented by Edgar Dobriban. 
 
+Lecture 3: ...
+
 ## Other materials
 
 ### Recent workshops and tutorials on related topics
