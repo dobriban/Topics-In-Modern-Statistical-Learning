@@ -97,4 +97,8 @@ Lecture 3: ...
 * Penn courses STAT 430, STAT 930.
 * [Online probability book](https://www.probabilitycourse.com/)
 
+### Perspectives
+* [Comments on AI, and the role of statistics by Candes, Duchi & Sabatti](https://statweb.stanford.edu/~candes/publications/downloads/Candes2019Comments.pdf)
+
+
 
