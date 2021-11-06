@@ -59,6 +59,8 @@ Book: [Conformal Prediction for Reliable Machine Learning](https://www.sciencedi
 
 ### Classical statistical goals: confidence intervals, (single and multiple) hypothesis testing
 
+[Only Closed Testing Procedures are Admissible for Controlling False Discovery Proportions](https://arxiv.org/abs/1901.04885)
+
 [E-values: Calibration, combination, and applications](https://arxiv.org/pdf/1912.06116.pdf)
 
 [Universal Inference](https://arxiv.org/abs/1912.11436)
