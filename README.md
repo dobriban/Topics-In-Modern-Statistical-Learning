@@ -73,6 +73,15 @@ Book: [Conformal Prediction for Reliable Machine Learning](https://www.sciencedi
 
 [Testing for Outliers with Conformal p-values](https://arxiv.org/abs/2104.08279)
 
+### Reviews, applications, etc
+
+[A review of uncertainty quantification in deep learning: Techniques, applications and challenges](https://www.sciencedirect.com/science/article/pii/S1566253521001081)
+
+[A Survey of Uncertainty in Deep Neural Networks](https://arxiv.org/abs/2107.03342)
+
+[Deeply uncertain: comparing methods of uncertainty quantification in deep learning algorithms](https://iopscience.iop.org/article/10.1088/2632-2153/aba6f3/meta)
+
+
 ## Learning theory
 
 [A Theory of Universal Learning](https://arxiv.org/abs/2011.04483)
@@ -100,5 +109,7 @@ Lecture 3: ...
 ### Perspectives
 * [Comments on AI, and the role of statistics by Candes, Duchi & Sabatti](https://statweb.stanford.edu/~candes/publications/downloads/Candes2019Comments.pdf)
 
+### Software tools
+* [Uncertainty Toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox)
 
 
