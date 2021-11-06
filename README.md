@@ -39,6 +39,8 @@ This is a seminar class at UPenn, surveying advanced topics in statistical learn
 
 [A Tutorial on Conformal Prediction](https://www.jmlr.org/papers/v9/shafer08a.html)
 
+Book: [Conformal Prediction for Reliable Machine Learning](https://www.sciencedirect.com/book/9780123985378/conformal-prediction-for-reliable-machine-learning)
+
 [Distribution-Free Predictive Inference For Regression](https://arxiv.org/abs/1604.04173)
 
 [Predictive inference with the jackknife+](https://arxiv.org/abs/1905.02928). [Slides](https://github.com/dobriban/Topics-in-deep-learning/blob/master/Stat%20991%20presentations/Fall%202019/Slides/BarberSlides-whoa-psi-2019.pdf). 
