@@ -57,10 +57,15 @@ Book: [Conformal Prediction for Reliable Machine Learning](https://www.sciencedi
 
 [Distribution-Free, Risk-Controlling Prediction Sets](https://arxiv.org/abs/2101.02703)
 
-### Classical statistical goals: confidence intervals, hypothesis testing
+### Classical statistical goals: confidence intervals, (single and multiple) hypothesis testing
+
+[E-values: Calibration, combination, and applications](https://arxiv.org/pdf/1912.06116.pdf)
 
 [Universal Inference](https://arxiv.org/abs/1912.11436)
 
+### OOD Detection
+
+[Testing for Outliers with Conformal p-values](https://arxiv.org/abs/2104.08279)
 
 ## Learning theory
 
