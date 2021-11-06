@@ -7,7 +7,7 @@ This is a seminar class at UPenn, surveying advanced topics in statistical learn
 
 ### Topics 
 
-* Potential topics: Uncertainty quantification,   ...
+* Potential topics: Uncertainty quantification, Learning theory  ...
 
 ## Uncertainty quantification
 
@@ -20,6 +20,8 @@ This is a seminar class at UPenn, surveying advanced topics in statistical learn
 [Measuring Calibration in Deep Learning](https://arxiv.org/abs/1904.01685)
 
 [Distribution-free binary classification: prediction sets, confidence intervals and calibration](https://arxiv.org/abs/2006.10564)
+
+[Learn then Test: Calibrating Predictive Algorithms to Achieve Risk Control](https://arxiv.org/abs/2110.01052)
 
 ### Bayesian approaches, ensembles
 
@@ -47,14 +49,22 @@ Book: [Conformal Prediction for Reliable Machine Learning](https://www.sciencedi
 
 [Exchangeability, Conformal Prediction, and Rank Tests](https://arxiv.org/abs/2005.06095)
 
+[Adaptive Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2106.00170)
+
 ### Prediction sets
 
 [PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction](https://arxiv.org/abs/2001.00106)
 
 [Distribution-Free, Risk-Controlling Prediction Sets](https://arxiv.org/abs/2101.02703)
 
+### Classical statistics
 
-[]()
+[Universal Inference](https://arxiv.org/abs/1912.11436)
+
+
+## Learning theory
+
+[A Theory of Universal Learning](https://arxiv.org/abs/2011.04483)
 
 ## Lectures
 
