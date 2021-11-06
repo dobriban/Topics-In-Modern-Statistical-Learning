@@ -1,4 +1,4 @@
-# STAT 991: Topics In Modern Statistical-Learning
+# STAT 991: Topics In Modern Statistical Learning
 Materials for STAT 9911303: Topics In Modern Statistical Learning (UPenn, 2022 Spring)
 This is a seminar class at UPenn, surveying advanced topics in statistical learning based on student presentations. 
 
