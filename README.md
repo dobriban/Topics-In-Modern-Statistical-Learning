@@ -57,7 +57,7 @@ Book: [Conformal Prediction for Reliable Machine Learning](https://www.sciencedi
 
 [Distribution-Free, Risk-Controlling Prediction Sets](https://arxiv.org/abs/2101.02703)
 
-### Classical statistics
+### Classical statistical goals: confidence intervals, hypothesis testing
 
 [Universal Inference](https://arxiv.org/abs/1912.11436)
 
