@@ -9,8 +9,6 @@ This is a seminar class at UPenn, surveying advanced topics in statistical learn
 
 * Potential topics: Uncertainty quantification,   ...
 
-* Potential papers:
-
 ## Uncertainty quantification
 
 ### Calibration
@@ -64,6 +62,8 @@ Lectures 1 and 2: Introduction. Presented by Edgar Dobriban.
 
 ## Other materials
 
+### Recent workshops and tutorials on related topics
+
 [ICML 2021 Workshop on Uncertainty & Robustness in Deep Learning](https://sites.google.com/view/udlworkshop2021/home)
 
 [Workshop on Distribution-Free Uncertainty Quantification at ICML 2021](https://sites.google.com/berkeley.edu/dfuq21)
@@ -71,5 +71,7 @@ Lectures 1 and 2: Introduction. Presented by Edgar Dobriban.
 [NeurIPS 2020 Tutorial on Practical Uncertainty Estimation and Out-of-Distribution Robustness in Deep Learning](https://nips.cc/virtual/2020/public/tutorial_0f190e6e164eafe66f011073b4486975.html)
 
 ### Probability background
+* Penn courses STAT 430, STAT 930.
+* [Online probability book](https://www.probabilitycourse.com/)
 
 
