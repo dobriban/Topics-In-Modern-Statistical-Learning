@@ -67,6 +67,10 @@ Book: [Conformal Prediction for Reliable Machine Learning](https://www.sciencedi
 
 ### OOD Detection
 
+[A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://arxiv.org/abs/1807.03888)
+
+[Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845)
+
 [Testing for Outliers with Conformal p-values](https://arxiv.org/abs/2104.08279)
 
 ## Learning theory
