@@ -84,15 +84,20 @@ Book: [Conformal Prediction for Reliable Machine Learning](https://www.sciencedi
 [Deeply uncertain: comparing methods of uncertainty quantification in deep learning algorithms](https://iopscience.iop.org/article/10.1088/2632-2153/aba6f3/meta)
 
 
-## Learning theory
+## Learning theory & training methods
 
 [A Theory of Universal Learning](https://arxiv.org/abs/2011.04483)
 
 [Orthogonal Statistical Learning](https://arxiv.org/abs/1901.09036)
 
+[Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent Evolution Strategies](http://proceedings.mlr.press/v139/vicol21a.html)
+
+
 ## Distributed learning
 
 [Optimal Complexity in Decentralized Training](https://arxiv.org/abs/2006.08085)
+
+[The Min-Max Complexity of Distributed Stochastic Convex Optimization with Intermittent Communication](https://arxiv.org/abs/2102.01583)
 
 ## Lectures
 
