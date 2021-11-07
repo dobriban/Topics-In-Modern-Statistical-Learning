@@ -14,9 +14,12 @@ This is a seminar class at UPenn, surveying advanced topics in statistical learn
 ### Calibration
 
 * [The Comparison and Evaluation of Forecasters](https://www.jstor.org/stable/2987588)
+* [Strictly proper scoring rules, prediction, and estimation](https://sites.stat.washington.edu/raftery/Research/PDF/Gneiting2007jasa.pdf)
+* [Probabilistic forecasts, calibration and sharpness](https://sites.stat.washington.edu/people/raftery/Research/PDF/Gneiting2007jrssb.pdf)
 * [On Calibration of Modern Neural Networks](http://proceedings.mlr.press/v70/guo17a.html)
 * [Measuring Calibration in Deep Learning](https://arxiv.org/abs/1904.01685)
 * [Distribution-free binary classification: prediction sets, confidence intervals and calibration](https://arxiv.org/abs/2006.10564)
+* [Beyond Pinball Loss: Quantile Methods for Calibrated Uncertainty Quantification](https://arxiv.org/abs/2011.09588)
 * [Learn then Test: Calibrating Predictive Algorithms to Achieve Risk Control](https://arxiv.org/abs/2110.01052)
 
 ### Bayesian approaches, ensembles
