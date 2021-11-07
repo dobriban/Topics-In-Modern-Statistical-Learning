@@ -65,6 +65,8 @@ Book: [Conformal Prediction for Reliable Machine Learning](https://www.sciencedi
 
 [Universal Inference](https://arxiv.org/abs/1912.11436)
 
+[Permutation-based Feature Importance Test (PermFIT)](https://www.nature.com/articles/s41467-021-22756-2)
+
 ### OOD Detection
 
 [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://arxiv.org/abs/1807.03888)
