@@ -90,6 +90,10 @@ Book: [Conformal Prediction for Reliable Machine Learning](https://www.sciencedi
 
 [Orthogonal Statistical Learning](https://arxiv.org/abs/1901.09036)
 
+## Distributed learning
+
+[Optimal Complexity in Decentralized Training](https://arxiv.org/abs/2006.08085)
+
 ## Lectures
 
 Lectures 1 and 2: Introduction. Presented by Edgar Dobriban. 
