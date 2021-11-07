@@ -86,6 +86,8 @@ Book: [Conformal Prediction for Reliable Machine Learning](https://www.sciencedi
 
 [A Theory of Universal Learning](https://arxiv.org/abs/2011.04483)
 
+[Orthogonal Statistical Learning](https://arxiv.org/abs/1901.09036)
+
 ## Lectures
 
 Lectures 1 and 2: Introduction. Presented by Edgar Dobriban. 
