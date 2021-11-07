@@ -24,10 +24,11 @@ This is a seminar class at UPenn, surveying advanced topics in statistical learn
 
 ### Bayesian approaches, ensembles
 
-* [Uncertainty in Deep Learning, Yarin Gal PhD Thesis](https://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf)
+* [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](http://proceedings.mlr.press/v48/gal16.html); [Uncertainty in Deep Learning, Yarin Gal PhD Thesis](https://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf)
 * [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/abs/1703.04977)
 * [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://arxiv.org/abs/1612.01474)
 * [Can You Trust Your Model's Uncertainty. Evaluating Predictive Uncertainty Under Dataset Shift](https://arxiv.org/abs/1906.02530)
+* [Bayesian Layers: A Module for Neural Network Uncertainty](https://proceedings.neurips.cc/paper/2019/file/154ff8944e6eac05d0675c95b5b8889d-Paper.pdf)
 
 ### Conformal prediction++
 
@@ -63,6 +64,7 @@ This is a seminar class at UPenn, surveying advanced topics in statistical learn
 * [A review of uncertainty quantification in deep learning: Techniques, applications and challenges](https://www.sciencedirect.com/science/article/pii/S1566253521001081)
 * [A Survey of Uncertainty in Deep Neural Networks](https://arxiv.org/abs/2107.03342)
 * [Deeply uncertain: comparing methods of uncertainty quantification in deep learning algorithms](https://iopscience.iop.org/article/10.1088/2632-2153/aba6f3/meta)
+* [Aleatoric and Epistemic Uncertainty in Machine Learning. An Introduction to Concepts and Methods](https://arxiv.org/abs/1910.09457)
 
 
 ## Learning theory & training methods
