@@ -97,6 +97,6 @@ Lecture 3: ...
 * [Comments on AI, and the role of statistics by Candes, Duchi & Sabatti](https://statweb.stanford.edu/~candes/publications/downloads/Candes2019Comments.pdf)
 
 ### Software tools
-* [Uncertainty Toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox), * [associated papers](https://github.com/uncertainty-toolbox/uncertainty-toolbox/blob/master/docs/paper_list.md#calibration-sharpness-and-recalibration-in-deep-learning)
+* [Uncertainty Toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox), [associated papers](https://github.com/uncertainty-toolbox/uncertainty-toolbox/blob/master/docs/paper_list.md#calibration-sharpness-and-recalibration-in-deep-learning)
 
 
