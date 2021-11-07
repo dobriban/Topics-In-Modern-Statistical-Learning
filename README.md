@@ -72,6 +72,7 @@ This is a seminar class at UPenn, surveying advanced topics in statistical learn
 * [A Theory of Universal Learning](https://arxiv.org/abs/2011.04483)
 * [Orthogonal Statistical Learning](https://arxiv.org/abs/1901.09036)
 * [Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent Evolution Strategies](http://proceedings.mlr.press/v139/vicol21a.html)
+* [Deep learning: a statistical viewpoint](https://arxiv.org/abs/2103.09177)
 
 
 ## Distributed learning
@@ -97,6 +98,9 @@ Lecture 3: ...
 * Penn courses STAT 430, STAT 930.
 * [Stat 110: Probability, Harvard](https://projects.iq.harvard.edu/stat110). * [edX course](https://www.edx.org/course/introduction-to-probability), * [book](http://probabilitybook.net/)
 * [Online probability book](https://www.probabilitycourse.com/)
+
+## ML background
+* Penn courses CIS 520, ESE 546, [STAT 991](https://github.com/dobriban/Topics-in-deep-learning), and links therein
 
 ### Perspectives
 * [Comments on AI, and the role of statistics by Candes, Duchi & Sabatti](https://statweb.stanford.edu/~candes/publications/downloads/Candes2019Comments.pdf)
