@@ -9,6 +9,11 @@ This is a seminar class at UPenn, surveying advanced topics in statistical learn
 
 * Potential topics: Uncertainty quantification, Learning theory  ...
 
+## Influential recent ML papers
+* [Dermatologist–level classification of skin cancer with deep neural networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8382232/pdf/nihms-1724608.pdf)
+* [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+* [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
+
 ## Uncertainty quantification
 
 ### Calibration
