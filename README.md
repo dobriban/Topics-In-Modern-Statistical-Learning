@@ -17,6 +17,7 @@ Why are people excited about ML?
 * [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
 
 ## Uncertainty quantification
+Why do we need to quantify uncertainty? What are the main approaches?
 
 ### Calibration
 
