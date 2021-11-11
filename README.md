@@ -128,6 +128,7 @@ Lecture 3: ...
 
 ### Perspectives
 * [Comments on AI, and the role of statistics by Candes, Duchi & Sabatti](https://statweb.stanford.edu/~candes/publications/downloads/Candes2019Comments.pdf)
+* [Prediction, Estimation, and Attribution, by Bradley Efron](https://efron.ckirby.su.domains//papers/2019PredictEstimatAttribut.pdf)
 
 ### Software tools
 * [Uncertainty Toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox), [associated papers](https://github.com/uncertainty-toolbox/uncertainty-toolbox/blob/master/docs/paper_list.md#calibration-sharpness-and-recalibration-in-deep-learning)
