@@ -1,13 +1,29 @@
-# STAT 991: Topics In Modern Statistical Learning
-Materials for STAT 9911303: Topics In Modern Statistical Learning (UPenn, 2022 Spring)
-This is a seminar class at UPenn, surveying advanced topics in statistical learning based on student presentations. 
+# STAT 991: Topics In Modern Statistical Learning (UPenn, 2022 Spring)
+
+This class surveys advanced topics in statistical learning based on student presentations. 
+
+The core topic of the course is uncertainty quantification for machine learning methods.
+While modern machine learning methods can have a high prediction accuracy in a variety of problems,
+it is still challenging to properly quantify their uncertainty.
+There has been a recent surge of work developing methods for this problem.
+It is one of the fastest developing areas in contemporary statistics.
+This course will survey a variety of different problems and approaches, such as
+calibration, prediction intervals (and sets), conformal inference, OOD detection, etc.
+We will discuss both empirically successful/popular methods as well as theoretically justified ones.
+See below for a sample of papers.
+
+In addition to the core topic, there will be a (brief) discussion of a few additional topics:
+1. Influential recent "breakthrough" papers applying machine learning (GPT-3, AlphaFold, etc), to get a sense of the "real" problems people want to solve.
+2. Important recent papers in statistical learning theory; to set the a sense of progress on the theoretical foundations of the area.
+
+
+The class will be based mainly on student presentations of papers. We imagine a critical discussion of one or two papers 
+per lecture; and several contiguous lectures on the same theme. The goal will be to develop a deep understanding of recent research.
+
+See also the syllabus: 
 
 * [Syllabus](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Syllabus/stat-991-spring-2022-syllabus.pdf). 
 
-
-### Topics 
-
-* Potential topics: Uncertainty quantification, Learning theory  ...
 
 ## Influential recent ML papers
 Why are people excited about ML?
