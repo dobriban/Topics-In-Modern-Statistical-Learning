@@ -118,6 +118,9 @@ Lecture 3: ...
 * [Workshop on Distribution-Free Uncertainty Quantification at ICML 2021](https://sites.google.com/berkeley.edu/dfuq21)
 * [NeurIPS 2020 Tutorial on Practical Uncertainty Estimation and Out-of-Distribution Robustness in Deep Learning](https://nips.cc/virtual/2020/public/tutorial_0f190e6e164eafe66f011073b4486975.html)
 
+### Seminar series
+* [International Seminar on Distribution-Free Statistics](https://sites.google.com/view/isdfs/home)
+
 ### Probability background
 * Penn courses STAT 430, STAT 930.
 * [Stat 110: Probability, Harvard](https://projects.iq.harvard.edu/stat110). * [edX course](https://www.edx.org/course/introduction-to-probability), * [book](http://probabilitybook.net/)
