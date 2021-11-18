@@ -90,7 +90,7 @@ Why do we need to quantify uncertainty? What are the main approaches?
 * [Deeply uncertain: comparing methods of uncertainty quantification in deep learning algorithms](https://iopscience.iop.org/article/10.1088/2632-2153/aba6f3/meta)
 * [Empirical Frequentist Coverage of Deep Learning Uncertainty Quantification Procedures](https://arxiv.org/abs/2010.03039)
 * [Aleatoric and Epistemic Uncertainty in Machine Learning. An Introduction to Concepts and Methods](https://arxiv.org/abs/1910.09457)
-* [Uncertainty Baselines. Benchmarks for Uncertainty and Robustness in Deep Learning - 2106.04015](https://arxiv.org/abs/2106.04015)
+* [Uncertainty Baselines. Benchmarks for Uncertainty and Robustness in Deep Learning](https://arxiv.org/abs/2106.04015)
 
 
 ## Learning theory & training methods
