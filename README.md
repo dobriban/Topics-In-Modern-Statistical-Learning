@@ -83,6 +83,10 @@ Why do we need to quantify uncertainty? What are the main approaches?
 * [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845)
 * [Testing for Outliers with Conformal p-values](https://arxiv.org/abs/2104.08279)
 
+### Inductive biases
+* [Combining Ensembles and Data Augmentation can Harm your Calibration](https://arxiv.org/abs/2010.09875)
+* [AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty](https://arxiv.org/abs/1912.02781)
+
 ### Reviews, applications, etc
 
 * [A review of uncertainty quantification in deep learning: Techniques, applications and challenges](https://www.sciencedirect.com/science/article/pii/S1566253521001081)
