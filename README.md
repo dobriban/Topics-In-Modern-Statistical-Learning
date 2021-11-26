@@ -129,7 +129,7 @@ Lecture 3: ...
 
 ### Probability background
 * Penn courses STAT 430, STAT 930.
-* [Stat 110: Probability, Harvard](https://projects.iq.harvard.edu/stat110). * [edX course](https://www.edx.org/course/introduction-to-probability), * [book](http://probabilitybook.net/)
+* [Stat 110: Probability, Harvard](https://projects.iq.harvard.edu/stat110). [edX course](https://www.edx.org/course/introduction-to-probability), [book](http://probabilitybook.net/)
 * [Online probability book](https://www.probabilitycourse.com/)
 
 ## ML background
