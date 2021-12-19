@@ -64,6 +64,7 @@ Why do we need to quantify uncertainty? What are the main approaches?
 * [Nested conformal prediction and quantile out-of-bag ensemble methods](https://arxiv.org/abs/1910.10562)
 * [Exchangeability, Conformal Prediction, and Rank Tests](https://arxiv.org/abs/2005.06095)
 * [Adaptive Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2106.00170)
+* [List of resources](https://github.com/valeman/awesome-conformal-prediction0
 
 ### Prediction sets
 
