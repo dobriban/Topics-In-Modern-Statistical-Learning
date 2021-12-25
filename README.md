@@ -96,6 +96,7 @@ Why do we need to quantify uncertainty? What are the main approaches?
 * [Empirical Frequentist Coverage of Deep Learning Uncertainty Quantification Procedures](https://arxiv.org/abs/2010.03039)
 * [Aleatoric and Epistemic Uncertainty in Machine Learning. An Introduction to Concepts and Methods](https://arxiv.org/abs/1910.09457)
 * [Uncertainty Baselines. Benchmarks for Uncertainty and Robustness in Deep Learning](https://arxiv.org/abs/2106.04015)
+* [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511)
 * [Generalized OOD detection](https://github.com/Jingkang50/OODSurvey)
 * [List of resources on conformal prediction](https://github.com/valeman/awesome-conformal-prediction)
 
