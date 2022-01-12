@@ -22,7 +22,7 @@ per lecture; and several contiguous lectures on the same theme. The goal will be
 
 See also the syllabus: 
 
-* [Syllabus](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Syllabus/stat-991-spring-2022-syllabus.pdf). 
+* [Syllabus](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Syllabus/syllabus.pdf). 
 
 
 ## Influential recent ML papers
