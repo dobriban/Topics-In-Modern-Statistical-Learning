@@ -12,7 +12,7 @@ calibration, prediction intervals (and sets), conformal inference, OOD detection
 We will discuss both empirically successful/popular methods as well as theoretically justified ones.
 See below for a sample of papers.
 
-In addition to the core topic, there will be a (brief) discussion of a few additional topics:
+In addition to the core topic, there may be a (brief) discussion of a few additional topics:
 1. Influential recent "breakthrough" papers applying machine learning (GPT-3, AlphaFold, etc), to get a sense of the "real" problems people want to solve.
 2. Important recent papers in statistical learning theory; to set the a sense of progress on the theoretical foundations of the area.
 
