@@ -35,8 +35,46 @@ Why are people excited about ML?
 ## Uncertainty quantification
 Why do we need to quantify uncertainty? What are the main approaches?
 
+
+### Conformal prediction++
+
+* [Vovk et al.'s paper series, and book](http://alrw.net/)
+  * [A Tutorial on Conformal Prediction](https://www.jmlr.org/papers/v9/shafer08a.html)
+* [Takeuchi’s prediction regions and theory](https://www.amazon.com/Contributions-Theory-Mathematical-Statistics-Takeuchi-ebook/dp/B08435357M), and [old lecture notes](http://onlineprediction.net/uploads/790717-takeuchi-memo.pdf)
+* [Inductive Conformal Prediction](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.4.7849&rep=rep1&type=pdf)
+* Papers from CMU group
+  * [Distribution-Free Predictive Inference For Regression](https://arxiv.org/abs/1604.04173)
+  * [Distribution-Free Prediction Sets](https://www.stat.cmu.edu/~ryantibs/statml/lectures/Lei-Robins-Wasserman.pdf)
+* Review emphasizing exchangeability: [Exchangeability, Conformal Prediction, and Rank Tests](https://arxiv.org/abs/2005.06095)
+* [Predictive inference with the jackknife+](https://arxiv.org/abs/1905.02928). * [Slides](https://github.com/dobriban/Topics-in-deep-learning/blob/master/Stat%20991%20presentations/Fall%202019/Slides/BarberSlides-whoa-psi-2019.pdf). 
+* [Nested conformal prediction and quantile out-of-bag ensemble methods](https://arxiv.org/abs/1910.10562)
+* [Adaptive Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2106.00170)
+
+
+### Tolerance Regions and Related Notions
+
+* [Wilks's original paper, 1941](https://www.jstor.org/stable/2235627)
+  * [Wald's multivariate extension, 1943](https://www.jstor.org/stable/2236001)
+  * Tukey's paper series: [1](https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-16/issue-2/Non-Parametric-Estimation-I-Validation-of-Order-Statistics/10.1214/aoms/1177731119.full), [2](https://www.jstor.org/stable/2236230), [3](https://www.jstor.org/stable/2236053); Fraser & Wormleighton's extensions [1](https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-22/issue-2/Nonparametric-Estimation-IV/10.1214/aoms/1177729650.full)
+* Books
+  * David & Nagaraja: Order statistics, Sec 7.2 (short but good general intro)
+  * Krishnamoorthy & Mathew: Statistical tolerance regions
+* [Vovk's paper on conditional validity](https://arxiv.org/abs/1209.2673)
+* [PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction](https://arxiv.org/abs/2001.00106)
+* [Distribution-Free, Risk-Controlling Prediction Sets](https://arxiv.org/abs/2101.02703)
+
+### Classical statistical goals: confidence intervals, (single and multiple) hypothesis testing
+
+* [Hartigan '1969](https://www.jstor.org/stable/2286069)
+* [E-values: Calibration, combination, and applications](https://arxiv.org/pdf/1912.06116.pdf)
+* [Universal Inference](https://arxiv.org/abs/1912.11436)
+* [Permutation-based Feature Importance Test (PermFIT)](https://www.nature.com/articles/s41467-021-22756-2)
+* [Only Closed Testing Procedures are Admissible for Controlling False Discovery Proportions](https://arxiv.org/abs/1901.04885)
+
+
 ### Calibration
 
+* Robert Miller's monograph: [Statistical Prediction by Discriminant Analysis](https://link.springer.com/book/10.1007/978-1-940033-52-5) (1962)
 * [The Comparison and Evaluation of Forecasters](https://www.jstor.org/stable/2987588)
 * [Strictly proper scoring rules, prediction, and estimation](https://sites.stat.washington.edu/raftery/Research/PDF/Gneiting2007jasa.pdf)
 * [Probabilistic forecasts, calibration and sharpness](https://sites.stat.washington.edu/people/raftery/Research/PDF/Gneiting2007jrssb.pdf)
@@ -53,30 +91,6 @@ Why do we need to quantify uncertainty? What are the main approaches?
 * [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://arxiv.org/abs/1612.01474)
 * [Can You Trust Your Model's Uncertainty. Evaluating Predictive Uncertainty Under Dataset Shift](https://arxiv.org/abs/1906.02530)
 * [Bayesian Layers: A Module for Neural Network Uncertainty](https://proceedings.neurips.cc/paper/2019/file/154ff8944e6eac05d0675c95b5b8889d-Paper.pdf)
-
-### Conformal prediction++
-
-* [Learning by Transduction](https://arxiv.org/abs/1301.7375)
-* [A Tutorial on Conformal Prediction](https://www.jmlr.org/papers/v9/shafer08a.html)
-* Book [Conformal Prediction for Reliable Machine Learning](https://www.sciencedirect.com/book/9780123985378/conformal-prediction-for-reliable-machine-learning)
-* [Distribution-Free Predictive Inference For Regression](https://arxiv.org/abs/1604.04173)
-* [Predictive inference with the jackknife+](https://arxiv.org/abs/1905.02928). * [Slides](https://github.com/dobriban/Topics-in-deep-learning/blob/master/Stat%20991%20presentations/Fall%202019/Slides/BarberSlides-whoa-psi-2019.pdf). 
-* [Nested conformal prediction and quantile out-of-bag ensemble methods](https://arxiv.org/abs/1910.10562)
-* [Exchangeability, Conformal Prediction, and Rank Tests](https://arxiv.org/abs/2005.06095)
-* [Adaptive Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2106.00170)
-
-
-### Prediction sets
-
-* [PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction](https://arxiv.org/abs/2001.00106)
-* [Distribution-Free, Risk-Controlling Prediction Sets](https://arxiv.org/abs/2101.02703)
-
-### Classical statistical goals: confidence intervals, (single and multiple) hypothesis testing
-
-* [Only Closed Testing Procedures are Admissible for Controlling False Discovery Proportions](https://arxiv.org/abs/1901.04885)
-* [E-values: Calibration, combination, and applications](https://arxiv.org/pdf/1912.06116.pdf)
-* [Universal Inference](https://arxiv.org/abs/1912.11436)
-* [Permutation-based Feature Importance Test (PermFIT)](https://www.nature.com/articles/s41467-021-22756-2)
 
 ### OOD Detection
 
@@ -99,6 +113,14 @@ Why do we need to quantify uncertainty? What are the main approaches?
 * [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511)
 * [Generalized OOD detection](https://github.com/Jingkang50/OODSurvey)
 * [List of resources on conformal prediction](https://github.com/valeman/awesome-conformal-prediction)
+
+### Classical statistical goals: confidence intervals, (single and multiple) hypothesis testing
+
+* [Only Closed Testing Procedures are Admissible for Controlling False Discovery Proportions](https://arxiv.org/abs/1901.04885)
+* [E-values: Calibration, combination, and applications](https://arxiv.org/pdf/1912.06116.pdf)
+* [Universal Inference](https://arxiv.org/abs/1912.11436)
+* [Permutation-based Feature Importance Test (PermFIT)](https://www.nature.com/articles/s41467-021-22756-2)
+
 
 ## Learning theory & training methods
 
