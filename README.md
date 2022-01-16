@@ -38,17 +38,28 @@ Why do we need to quantify uncertainty? What are the main approaches?
 
 ### Conformal prediction++
 
-* [Vovk et al.'s paper series, and book](http://alrw.net/)
+* [Vovk et al.'s paper series, and books](http://alrw.net/)
   * [A Tutorial on Conformal Prediction](https://www.jmlr.org/papers/v9/shafer08a.html)
 * [Takeuchi’s prediction regions and theory](https://www.amazon.com/Contributions-Theory-Mathematical-Statistics-Takeuchi-ebook/dp/B08435357M), and [old lecture notes](http://onlineprediction.net/uploads/790717-takeuchi-memo.pdf)
 * [Inductive Conformal Prediction](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.4.7849&rep=rep1&type=pdf)
-* Papers from CMU group
-  * [Distribution-Free Predictive Inference For Regression](https://arxiv.org/abs/1604.04173)
+* (A few) Papers from CMU group
   * [Distribution-Free Prediction Sets](https://www.stat.cmu.edu/~ryantibs/statml/lectures/Lei-Robins-Wasserman.pdf)
+  * [Distribution-free prediction bands for nonparametric regression](https://www.stat.cmu.edu/~ryantibs/statml/lectures/Lei-Wasserman.pdf)
+  * [Distribution-Free Predictive Inference For Regression](https://arxiv.org/abs/1604.04173)
 * Review emphasizing exchangeability: [Exchangeability, Conformal Prediction, and Rank Tests](https://arxiv.org/abs/2005.06095)
 * [Predictive inference with the jackknife+](https://arxiv.org/abs/1905.02928). * [Slides](https://github.com/dobriban/Topics-in-deep-learning/blob/master/Stat%20991%20presentations/Fall%202019/Slides/BarberSlides-whoa-psi-2019.pdf). 
 * [Nested conformal prediction and quantile out-of-bag ensemble methods](https://arxiv.org/abs/1910.10562)
 * [Adaptive Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2106.00170)
+* X-Conditional validity: Already listed above: [Mondrian Confidence Machines](http://alrw.net/old/04.pdf) (also in Vovk'05 book), [Lei & Wasserman'14](https://www.stat.cmu.edu/~ryantibs/statml/lectures/Lei-Wasserman.pdf)
+  * Y-conditional: [Classification with confidence](https://www.jstor.org/stable/43304686)
+  * others: [equalized coverage](https://arxiv.org/abs/1908.05428)
+* Applications to various statistical models
+  * Causal estimands and Counterfactuals: [Chernozhukov et al](An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls), [Cattaneo et al](https://cattaneo.princeton.edu/papers/Cattaneo-Feng-Titiunik_2021_JASA.pdf), [Lei and Candes](Conformal Inference of Counterfactuals and Individual Treatment Effects)
+  * Quantile regression: [Romano et al](https://arxiv.org/abs/1905.03222)
+* Dependence
+  * [Conformal prediction for dynamic time-series](https://arxiv.org/abs/2010.09107)
+  * [Exact and robust conformal
+inference methods for predictive machine learning with dependent data](http://proceedings.mlr.press/v75/chernozhukov18a.html)
 
 
 ### Tolerance Regions and Related Notions
@@ -59,9 +70,10 @@ Why do we need to quantify uncertainty? What are the main approaches?
 * Books
   * David & Nagaraja: Order statistics, Sec 7.2 (short but good general intro)
   * Krishnamoorthy & Mathew: Statistical tolerance regions
-* [Vovk's paper on conditional validity](https://arxiv.org/abs/1209.2673)
-* [PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction](https://arxiv.org/abs/2001.00106)
-* [Distribution-Free, Risk-Controlling Prediction Sets](https://arxiv.org/abs/2101.02703)
+* Connections between inductive conformal prediction, training set conditional validity, tolerance regions: 
+  * [Conditional validity of inductive conformal predictors](https://arxiv.org/abs/1209.2673)
+  * [PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction](https://arxiv.org/abs/2001.00106)
+  * [Distribution-Free, Risk-Controlling Prediction Sets](https://arxiv.org/abs/2101.02703)
 
 ### Classical statistical goals: confidence intervals, (single and multiple) hypothesis testing
 
@@ -97,6 +109,7 @@ Why do we need to quantify uncertainty? What are the main approaches?
 * [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://arxiv.org/abs/1807.03888)
 * [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845)
 * [Testing for Outliers with Conformal p-values](https://arxiv.org/abs/2104.08279)
+* [Conformal Anomaly Detection on Spatio-Temporal Observations with Missing Data](https://arxiv.org/abs/2105.11886)
 
 ### Inductive biases
 * [Combining Ensembles and Data Augmentation can Harm your Calibration](https://arxiv.org/abs/2010.09875)
