@@ -75,14 +75,6 @@ inference methods for predictive machine learning with dependent data](http://pr
   * [PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction](https://arxiv.org/abs/2001.00106)
   * [Distribution-Free, Risk-Controlling Prediction Sets](https://arxiv.org/abs/2101.02703)
 
-### Classical statistical goals: confidence intervals, (single and multiple) hypothesis testing
-
-* [Hartigan '1969](https://www.jstor.org/stable/2286069)
-* [E-values: Calibration, combination, and applications](https://arxiv.org/pdf/1912.06116.pdf)
-* [Universal Inference](https://arxiv.org/abs/1912.11436)
-* [Permutation-based Feature Importance Test (PermFIT)](https://www.nature.com/articles/s41467-021-22756-2)
-* [Only Closed Testing Procedures are Admissible for Controlling False Discovery Proportions](https://arxiv.org/abs/1901.04885)
-
 
 ### Calibration
 
@@ -110,6 +102,15 @@ inference methods for predictive machine learning with dependent data](http://pr
 * [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845)
 * [Testing for Outliers with Conformal p-values](https://arxiv.org/abs/2104.08279)
 * [Conformal Anomaly Detection on Spatio-Temporal Observations with Missing Data](https://arxiv.org/abs/2105.11886)
+
+### Classical statistical goals: confidence intervals, (single and multiple) hypothesis testing
+
+* [Hartigan '1969](https://www.jstor.org/stable/2286069)
+* [E-values: Calibration, combination, and applications](https://arxiv.org/pdf/1912.06116.pdf)
+* [Universal Inference](https://arxiv.org/abs/1912.11436)
+* [Permutation-based Feature Importance Test (PermFIT)](https://www.nature.com/articles/s41467-021-22756-2)
+* [Only Closed Testing Procedures are Admissible for Controlling False Discovery Proportions](https://arxiv.org/abs/1901.04885)
+
 
 ### Inductive biases
 * [Combining Ensembles and Data Augmentation can Harm your Calibration](https://arxiv.org/abs/2010.09875)
