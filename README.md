@@ -142,7 +142,15 @@ inference methods for predictive machine learning with dependent data](http://pr
 * [Permutation-based Feature Importance Test (PermFIT)](https://www.nature.com/articles/s41467-021-22756-2)
 
 
-## Learning theory & training methods
+## Lectures
+
+Lectures 1 and 2: Introduction. Presented by Edgar Dobriban. 
+
+Lecture 3: ...
+
+## Other topics
+
+### Learning theory & training methods
 
 * [A Theory of Universal Learning](https://arxiv.org/abs/2011.04483)
 * [Orthogonal Statistical Learning](https://arxiv.org/abs/1901.09036)
@@ -150,16 +158,10 @@ inference methods for predictive machine learning with dependent data](http://pr
 * [Deep learning: a statistical viewpoint](https://arxiv.org/abs/2103.09177)
 
 
-## Distributed learning
+### Distributed learning
 
 * [Optimal Complexity in Decentralized Training](https://arxiv.org/abs/2006.08085)
 * [The Min-Max Complexity of Distributed Stochastic Convex Optimization with Intermittent Communication](https://arxiv.org/abs/2102.01583)
-
-## Lectures
-
-Lectures 1 and 2: Introduction. Presented by Edgar Dobriban. 
-
-Lecture 3: ...
 
 ## Other materials
 
@@ -172,21 +174,22 @@ Lecture 3: ...
 ### Seminar series
 * [International Seminar on Distribution-Free Statistics](https://sites.google.com/view/isdfs/home)
 
+### Software tools
+* [Uncertainty Toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox), [associated papers](https://github.com/uncertainty-toolbox/uncertainty-toolbox/blob/master/docs/paper_list.md#calibration-sharpness-and-recalibration-in-deep-learning)
+* [Uncertainty Baselines](https://github.com/google/uncertainty-baselines/tree/main/baselines)
+* [MAPIE](https://github.com/scikit-learn-contrib/MAPIE), conformal-type methods
+
 ### Probability background
 * Penn courses STAT 430, STAT 930.
 * [Stat 110: Probability, Harvard](https://projects.iq.harvard.edu/stat110). [edX course](https://www.edx.org/course/introduction-to-probability), [book](http://probabilitybook.net/)
 * [Online probability book](https://www.probabilitycourse.com/)
 
-## ML background
+### ML background
 * Penn courses CIS 520, ESE 546, [STAT 991](https://github.com/dobriban/Topics-in-deep-learning), and links therein
 
 ### Perspectives
 * [Comments on AI, and the role of statistics by Candes, Duchi & Sabatti](https://statweb.stanford.edu/~candes/publications/downloads/Candes2019Comments.pdf)
 * [Prediction, Estimation, and Attribution, by Bradley Efron](https://efron.ckirby.su.domains//papers/2019PredictEstimatAttribut.pdf)
 
-### Software tools
-* [Uncertainty Toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox), [associated papers](https://github.com/uncertainty-toolbox/uncertainty-toolbox/blob/master/docs/paper_list.md#calibration-sharpness-and-recalibration-in-deep-learning)
-* [Uncertainty Baselines](https://github.com/google/uncertainty-baselines/tree/main/baselines)
-* [MAPIE](https://github.com/scikit-learn-contrib/MAPIE), conformal-type methods
 
 
