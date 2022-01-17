@@ -78,15 +78,18 @@ inference methods for predictive machine learning with dependent data](http://pr
 
 ### Calibration
 
-* Robert Miller's monograph: [Statistical Prediction by Discriminant Analysis](https://link.springer.com/book/10.1007/978-1-940033-52-5) (1962)
-* [The Comparison and Evaluation of Forecasters](https://www.jstor.org/stable/2987588)
-* [Strictly proper scoring rules, prediction, and estimation](https://sites.stat.washington.edu/raftery/Research/PDF/Gneiting2007jasa.pdf)
-* [Probabilistic forecasts, calibration and sharpness](https://sites.stat.washington.edu/people/raftery/Research/PDF/Gneiting2007jrssb.pdf)
-* [On Calibration of Modern Neural Networks](http://proceedings.mlr.press/v70/guo17a.html)
-* [Measuring Calibration in Deep Learning](https://arxiv.org/abs/1904.01685)
-* [Distribution-free binary classification: prediction sets, confidence intervals and calibration](https://arxiv.org/abs/2006.10564)
-* [Beyond Pinball Loss: Quantile Methods for Calibrated Uncertainty Quantification](https://arxiv.org/abs/2011.09588)
-* [Learn then Test: Calibrating Predictive Algorithms to Achieve Risk Control](https://arxiv.org/abs/2110.01052)
+* Classics
+  * Sec 5.a of Robert Miller's monograph: [Statistical Prediction by Discriminant Analysis](https://link.springer.com/book/10.1007/978-1-940033-52-5) (1962). Calibration is called "validity" here.
+  * [Calibration of Probabilities: The State of the Art to 1980](http://www.ccnss.org/ccn_2014/materials/pdf/sigman/callibration_probabilities_lichtenstein_fischoff_philips.pdf)
+  * DeGroot & Fienberg, [The Comparison and Evaluation of Forecasters](https://www.jstor.org/stable/2987588), 1983
+  * Vovk, V. and Shafer, G. (2005) [Good randomized sequential probability forecasting is always possible](https://pure.royalholloway.ac.uk/portal/files/889848/Vovk_-_Good_randomized.pdf). JRSS-B
+  * [Probabilistic forecasts, calibration and sharpness](https://sites.stat.washington.edu/people/raftery/Research/PDF/Gneiting2007jrssb.pdf)
+* Modern ML
+  * [On Calibration of Modern Neural Networks](http://proceedings.mlr.press/v70/guo17a.html)
+  * [Measuring Calibration in Deep Learning](https://arxiv.org/abs/1904.01685)
+  * [Distribution-free binary classification: prediction sets, confidence intervals and calibration](https://arxiv.org/abs/2006.10564)
+  * [Beyond Pinball Loss: Quantile Methods for Calibrated Uncertainty Quantification](https://arxiv.org/abs/2011.09588)
+  * [Learn then Test: Calibrating Predictive Algorithms to Achieve Risk Control](https://arxiv.org/abs/2110.01052)
 
 ### Bayesian approaches, ensembles
 
