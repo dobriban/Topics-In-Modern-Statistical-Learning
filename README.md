@@ -83,7 +83,7 @@ inference methods for predictive machine learning with dependent data](http://pr
   * [Calibration of Probabilities: The State of the Art to 1980](http://www.ccnss.org/ccn_2014/materials/pdf/sigman/callibration_probabilities_lichtenstein_fischoff_philips.pdf)
   * A.P. Dawid, [The Well-Calibrated Bayesian](http://fitelson.org/seminar/dawid.pdf)
   * DeGroot & Fienberg, [The Comparison and Evaluation of Forecasters](https://www.jstor.org/stable/2987588), 1983
-  * On-line setting: 
+  * On-line setting (some of it is non-probabilistic): 
     * Foster & Vohra (1998) [Asymptotic Calibration](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1033&context=statistics_papers)
     * Vovk, V. and Shafer, G. (2005) [Good randomized sequential probability forecasting is always possible](https://pure.royalholloway.ac.uk/portal/files/889848/Vovk_-_Good_randomized.pdf). JRSS-B
   * Gneiting et al., [Probabilistic forecasts, calibration and sharpness](https://sites.stat.washington.edu/people/raftery/Research/PDF/Gneiting2007jrssb.pdf)
