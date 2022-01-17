@@ -186,6 +186,7 @@ Lecture 3: ...
 
 ### Software tools
 * [Uncertainty Toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox), [associated papers](https://github.com/uncertainty-toolbox/uncertainty-toolbox/blob/master/docs/paper_list.md#calibration-sharpness-and-recalibration-in-deep-learning)
+* [Uncertainty Baselines](https://github.com/google/uncertainty-baselines/tree/main/baselines)
 * [MAPIE](https://github.com/scikit-learn-contrib/MAPIE), conformal-type methods
 
 
