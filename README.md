@@ -54,7 +54,7 @@ Why do we need to quantify uncertainty? What are the main approaches?
   * Y-conditional: [Classification with confidence](https://www.jstor.org/stable/43304686)
   * others: [equalized coverage](https://arxiv.org/abs/1908.05428)
 * Applications to various statistical models
-  * Causal estimands and Counterfactuals: [Chernozhukov et al](An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls), [Cattaneo et al](https://cattaneo.princeton.edu/papers/Cattaneo-Feng-Titiunik_2021_JASA.pdf), [Lei and Candes](Conformal Inference of Counterfactuals and Individual Treatment Effects)
+  * Causal estimands and Counterfactuals: [Chernozhukov et al, An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls](https://arxiv.org/abs/1712.09089), [Cattaneo et al](https://cattaneo.princeton.edu/papers/Cattaneo-Feng-Titiunik_2021_JASA.pdf), [Lei and Candes, Conformal Inference of Counterfactuals and Individual Treatment Effects](https://arxiv.org/abs/2006.06138)
   * Quantile regression: [Romano et al](https://arxiv.org/abs/1905.03222)
 * Dependence
   * [Conformal prediction for dynamic time-series](https://arxiv.org/abs/2010.09107)
