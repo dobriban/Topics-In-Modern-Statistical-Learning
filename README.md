@@ -109,6 +109,15 @@ inference methods for predictive machine learning with dependent data](http://pr
 * [Testing for Outliers with Conformal p-values](https://arxiv.org/abs/2104.08279)
 * [Conformal Anomaly Detection on Spatio-Temporal Observations with Missing Data](https://arxiv.org/abs/2105.11886)
 
+### Classical statistical goals: confidence intervals, (single and multiple) hypothesis testing
+
+* [Hartigan '1969](https://www.jstor.org/stable/2286069)
+* [E-values: Calibration, combination, and applications](https://arxiv.org/pdf/1912.06116.pdf)
+* [Universal Inference](https://arxiv.org/abs/1912.11436)
+* [Permutation-based Feature Importance Test (PermFIT)](https://www.nature.com/articles/s41467-021-22756-2)
+* [Only Closed Testing Procedures are Admissible for Controlling False Discovery Proportions](https://arxiv.org/abs/1901.04885)
+
+
 ### Inductive biases
 * [Combining Ensembles and Data Augmentation can Harm your Calibration](https://arxiv.org/abs/2010.09875)
 * [AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty](https://arxiv.org/abs/1912.02781)
@@ -133,14 +142,6 @@ Lecture 3: ...
 
 ## Other topics
 
-
-### Classical statistical goals: confidence intervals, (single and multiple) hypothesis testing
-
-* [Hartigan '1969](https://www.jstor.org/stable/2286069)
-* [E-values: Calibration, combination, and applications](https://arxiv.org/pdf/1912.06116.pdf)
-* [Universal Inference](https://arxiv.org/abs/1912.11436)
-* [Permutation-based Feature Importance Test (PermFIT)](https://www.nature.com/articles/s41467-021-22756-2)
-* [Only Closed Testing Procedures are Admissible for Controlling False Discovery Proportions](https://arxiv.org/abs/1901.04885)
 
 
 ### Learning theory & training methods
