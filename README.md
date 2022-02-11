@@ -60,6 +60,7 @@ Why do we need to quantify uncertainty? What are the main approaches?
   * [Conformal prediction for dynamic time-series](https://arxiv.org/abs/2010.09107)
   * [Exact and robust conformal
 inference methods for predictive machine learning with dependent data](http://proceedings.mlr.press/v75/chernozhukov18a.html)
+  * Model-Free Prediction Principle (Politis and collaborators). [book](https://www.amazon.com/Model-Free-Prediction-Regression-Transformation-Based-Probability-ebook/dp/B01827I4OQ), [brief paper](https://mathweb.ucsd.edu/~politis/PAPER/MF2.pdf)
 
 
 ### Tolerance Regions and Related Notions
