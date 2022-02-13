@@ -85,10 +85,15 @@ inference methods for predictive machine learning with dependent data](http://pr
     * [Calibration and probability judgements: Conceptual and methodological issues](https://www.sciencedirect.com/science/article/pii/000169189190036Y)
   * A.P. Dawid, [The Well-Calibrated Bayesian](http://fitelson.org/seminar/dawid.pdf)
   * DeGroot & Fienberg, [The Comparison and Evaluation of Forecasters](https://www.jstor.org/stable/2987588), 1983
+  * Testing
+    * Early works: Cox, 1958, Miller's monograph above
+    * [On Testing the Validity of Sequential Probability Forecasts](https://www.tandfonline.com/doi/abs/10.1080/01621459.1993.10594328)
   * On-line setting (some of it is non-probabilistic): 
     * Foster & Vohra (1998) [Asymptotic Calibration](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1033&context=statistics_papers)
     * Vovk, V. and Shafer, G. (2005) [Good randomized sequential probability forecasting is always possible](https://pure.royalholloway.ac.uk/portal/files/889848/Vovk_-_Good_randomized.pdf). JRSS-B
-  * Gneiting et al., [Probabilistic forecasts, calibration and sharpness](https://sites.stat.washington.edu/people/raftery/Research/PDF/Gneiting2007jrssb.pdf)
+  * Scoring rules, etc
+    * Winkler, [Scoring rules and the evaluation of probabilities](https://link.springer.com/article/10.1007/BF02562681)
+    * Gneiting et al., [Probabilistic forecasts, calibration and sharpness](https://sites.stat.washington.edu/people/raftery/Research/PDF/Gneiting2007jrssb.pdf)
 * Modern ML
   * [On Calibration of Modern Neural Networks](http://proceedings.mlr.press/v70/guo17a.html)
   * [Measuring Calibration in Deep Learning](https://arxiv.org/abs/1904.01685)
