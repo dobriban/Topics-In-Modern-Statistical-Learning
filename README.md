@@ -84,6 +84,7 @@ inference methods for predictive machine learning with dependent data](http://pr
   * [Calibration of Probabilities: The State of the Art to 1980](http://www.ccnss.org/ccn_2014/materials/pdf/sigman/callibration_probabilities_lichtenstein_fischoff_philips.pdf)
     * [Calibration and probability judgements: Conceptual and methodological issues](https://www.sciencedirect.com/science/article/pii/000169189190036Y)
   * A.P. Dawid, [The Well-Calibrated Bayesian](http://fitelson.org/seminar/dawid.pdf)
+    * [A Subjectivist View of Calibration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1592468)
   * DeGroot & Fienberg, [The Comparison and Evaluation of Forecasters](https://www.jstor.org/stable/2987588), 1983
   * Testing
     * Early works: Cox, 1958, Miller's monograph above
