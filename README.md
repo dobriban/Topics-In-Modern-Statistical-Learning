@@ -82,6 +82,7 @@ inference methods for predictive machine learning with dependent data](http://pr
 * Classics
   * Sec 5.a of Robert Miller's monograph: [Statistical Prediction by Discriminant Analysis](https://link.springer.com/book/10.1007/978-1-940033-52-5) (1962). Calibration is called "validity" here.
   * [Calibration of Probabilities: The State of the Art to 1980](http://www.ccnss.org/ccn_2014/materials/pdf/sigman/callibration_probabilities_lichtenstein_fischoff_philips.pdf)
+    * [Calibration and probability judgements: Conceptual and methodological issues](https://www.sciencedirect.com/science/article/pii/000169189190036Y)
   * A.P. Dawid, [The Well-Calibrated Bayesian](http://fitelson.org/seminar/dawid.pdf)
   * DeGroot & Fienberg, [The Comparison and Evaluation of Forecasters](https://www.jstor.org/stable/2987588), 1983
   * On-line setting (some of it is non-probabilistic): 
