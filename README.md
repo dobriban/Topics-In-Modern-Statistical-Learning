@@ -144,9 +144,9 @@ inference methods for predictive machine learning with dependent data](http://pr
 
 ## Lectures
 
-Lectures 1 and 2: Introduction. Presented by Edgar Dobriban. 
+Lectures 1-8: Introduction, Conformal Prediction, Calibration. Presented by Edgar Dobriban. 
 
-Lecture 3: ...
+Lecture 9 onwards: student presentations.
 
 ## Other topics
 
