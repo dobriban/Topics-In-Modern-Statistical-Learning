@@ -156,6 +156,15 @@ Presentation 3: [Conformal Prediction with Dependent Data](https://github.com/do
 
 Presentation 4: [Bayesian Calibration](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/4_The_Well_Calibrated_Bayesian_Ryan.pdf) by Ryan Brill.
 
+Presentation 5: [Conditional Randomization Test](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/5_Abhinav_CRT_presentation.pdf) by Abhinav Chakraborty.
+
+Presentation 6: [Distribution Free Prediction Sets and Regression](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/6_Anirban_Distribution_Free_Prediction__STAT_991_303__Presentation.pdf) by Anirban Chatterjee.
+
+Presentation 7: [Advanced Topics in Fairness](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/7_Alex_Tolbert_Learning_Fair_and_Optimal_Models_From_Random_Classification_Noise_and_Biased_Data) by Alexander Tolbert.
+
+Presentation 8: [Calibration and Quantile Regression](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/8_Ignacio_Calibration_and_QR.pdf) by Ignacio Hounie.
+
+Presentation 9: [Conformal Prediction under Distribution Shift](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/9_Patrick_Jeffrey_Conformal_under_Distribution_Shift.pdf) by Patrick Chao and Jeffrey Zhang.
 
 
 ## Other topics
