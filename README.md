@@ -148,6 +148,16 @@ Lectures 1-8: Introduction, Conformal Prediction, Calibration. Presented by Edga
 
 Lecture 9 onwards: student presentations.
 
+Presentation 1: [Deep Learning in Medical Imaging](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/1.Rongguang_DL_Medical_Imaging.pdf) by Rongguang Wang.
+
+Presentation 2: [Introduction to Fairness in Machine Learning](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/2_STAT_991_Harry_Wang_Fairness_ML.pdf) by Harry Wang.
+
+Presentation 3: [Conformal Prediction with Dependent Data](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/3_STAT_991__Conformal_Prediction_with_Dependent_Data_Kaifu.pdf) by Kaifu Wang.
+
+Presentation 4: [Bayesian Calibration](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/4_The_Well_Calibrated_Bayesian_Ryan.pdf) by Ryan Brill.
+
+
+
 ## Other topics
 
 
