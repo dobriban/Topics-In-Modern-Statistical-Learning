@@ -160,7 +160,7 @@ Presentation 5: [Conditional Randomization Test](https://github.com/dobriban/Top
 
 Presentation 6: [Distribution Free Prediction Sets and Regression](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/6_Anirban_Distribution_Free_Prediction__STAT_991_303__Presentation.pdf) by Anirban Chatterjee.
 
-Presentation 7: [Advanced Topics in Fairness](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/7_Alex_Tolbert_Learning_Fair_and_Optimal_Models_From_Random_Classification_Noise_and_Biased_Data) by Alexander Tolbert.
+Presentation 7: [Advanced Topics in Fairness](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/7_Alex_Tolbert_Learning_Fair_and_Optimal_Models_From_Random_Classification_Noise_and_Biased_Data.pptx) by Alexander Tolbert.
 
 Presentation 8: [Calibration and Quantile Regression](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/8_Ignacio_Calibration_and_QR.pdf) by Ignacio Hounie.
 
