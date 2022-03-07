@@ -125,23 +125,6 @@ inference methods for predictive machine learning with dependent data](http://pr
 * [Permutation-based Feature Importance Test (PermFIT)](https://www.nature.com/articles/s41467-021-22756-2)
 * [Only Closed Testing Procedures are Admissible for Controlling False Discovery Proportions](https://arxiv.org/abs/1901.04885)
 
-
-### Inductive biases
-* [Combining Ensembles and Data Augmentation can Harm your Calibration](https://arxiv.org/abs/2010.09875)
-* [AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty](https://arxiv.org/abs/1912.02781)
-
-### Reviews, applications, etc
-
-* [A review of uncertainty quantification in deep learning: Techniques, applications and challenges](https://www.sciencedirect.com/science/article/pii/S1566253521001081)
-* [A Survey of Uncertainty in Deep Neural Networks](https://arxiv.org/abs/2107.03342)
-* [Deeply uncertain: comparing methods of uncertainty quantification in deep learning algorithms](https://iopscience.iop.org/article/10.1088/2632-2153/aba6f3/meta)
-* [Empirical Frequentist Coverage of Deep Learning Uncertainty Quantification Procedures](https://arxiv.org/abs/2010.03039)
-* [Aleatoric and Epistemic Uncertainty in Machine Learning. An Introduction to Concepts and Methods](https://arxiv.org/abs/1910.09457)
-* [Uncertainty Baselines. Benchmarks for Uncertainty and Robustness in Deep Learning](https://arxiv.org/abs/2106.04015)
-* [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511)
-* [Generalized OOD detection](https://github.com/Jingkang50/OODSurvey)
-* [List of resources on conformal prediction](https://github.com/valeman/awesome-conformal-prediction)
-
 ## Lectures
 
 Lectures 1-8: Introduction, Conformal Prediction, Calibration. Presented by Edgar Dobriban. 
@@ -169,6 +152,23 @@ Presentation 9: [Conformal Prediction under Distribution Shift](https://github.c
 
 ## Other topics
 
+
+
+### Inductive biases
+* [Combining Ensembles and Data Augmentation can Harm your Calibration](https://arxiv.org/abs/2010.09875)
+* [AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty](https://arxiv.org/abs/1912.02781)
+
+### Reviews, applications, etc
+
+* [A review of uncertainty quantification in deep learning: Techniques, applications and challenges](https://www.sciencedirect.com/science/article/pii/S1566253521001081)
+* [A Survey of Uncertainty in Deep Neural Networks](https://arxiv.org/abs/2107.03342)
+* [Deeply uncertain: comparing methods of uncertainty quantification in deep learning algorithms](https://iopscience.iop.org/article/10.1088/2632-2153/aba6f3/meta)
+* [Empirical Frequentist Coverage of Deep Learning Uncertainty Quantification Procedures](https://arxiv.org/abs/2010.03039)
+* [Aleatoric and Epistemic Uncertainty in Machine Learning. An Introduction to Concepts and Methods](https://arxiv.org/abs/1910.09457)
+* [Uncertainty Baselines. Benchmarks for Uncertainty and Robustness in Deep Learning](https://arxiv.org/abs/2106.04015)
+* [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511)
+* [Generalized OOD detection](https://github.com/Jingkang50/OODSurvey)
+* [List of resources on conformal prediction](https://github.com/valeman/awesome-conformal-prediction)
 
 
 ### Learning theory & training methods
