@@ -47,7 +47,7 @@ Why do we need to quantify uncertainty? What are the main approaches?
   * [Distribution-free prediction bands for nonparametric regression](https://www.stat.cmu.edu/~ryantibs/statml/lectures/Lei-Wasserman.pdf)
   * [Distribution-Free Predictive Inference For Regression](https://arxiv.org/abs/1604.04173)
 * Review emphasizing exchangeability: [Exchangeability, Conformal Prediction, and Rank Tests](https://arxiv.org/abs/2005.06095)
-* [Predictive inference with the jackknife+](https://arxiv.org/abs/1905.02928). * [Slides](https://github.com/dobriban/Topics-in-deep-learning/blob/master/Stat%20991%20presentations/Fall%202019/Slides/BarberSlides-whoa-psi-2019.pdf). 
+* [Predictive inference with the jackknife+](https://arxiv.org/abs/1905.02928). [Slides](https://github.com/dobriban/Topics-in-deep-learning/blob/master/Stat%20991%20presentations/Fall%202019/Slides/BarberSlides-whoa-psi-2019.pdf). 
 * [Nested conformal prediction and quantile out-of-bag ensemble methods](https://arxiv.org/abs/1910.10562)
 * [Adaptive Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2106.00170)
 * X-Conditional validity: Already listed above: [Mondrian Confidence Machines](http://alrw.net/old/04.pdf) (also in Vovk'05 book), [Lei & Wasserman'14](https://www.stat.cmu.edu/~ryantibs/statml/lectures/Lei-Wasserman.pdf)
