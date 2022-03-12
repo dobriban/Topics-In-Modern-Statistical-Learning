@@ -127,7 +127,10 @@ inference methods for predictive machine learning with dependent data](http://pr
 
 ## Lectures
 
-Lectures 1-8: Introduction, Conformal Prediction, Calibration. Presented by Edgar Dobriban. [Notes](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Notes/stat_991_handwritten_notes.pdf). Caveat: handwritten and may be hard to read. To be typed up in the future.
+Lecture 1-2: [Introduction](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Notes/lec_1.pdf). By Edgar Dobriban. 
+
+Lecture 3-8: [Conformal Prediction, Calibration. By Edgar Dobriban](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Notes/stat_991_handwritten_notes.pdf). 
+Caveat: handwritten and may be hard to read. To be typed up in the future.
 
 
 Lecture 9 onwards: student presentations.
