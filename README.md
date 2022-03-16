@@ -153,6 +153,8 @@ Presentation 8: [Calibration and Quantile Regression](https://github.com/dobriba
 
 Presentation 9: [Conformal Prediction under Distribution Shift](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/9_Patrick_Jeffrey_Conformal_under_Distribution_Shift.pdf) by Patrick Chao and Jeffrey Zhang.
 
+Presentation 10: [Testing for Outliers with Conformal p-values](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/10_Testing_for_Outliers_with_Conformal_p-values_Donghwan.pdf) by Donghwan Lee.  
+
 
 ## Other topics
 
