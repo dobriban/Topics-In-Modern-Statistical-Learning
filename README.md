@@ -155,6 +155,8 @@ Presentation 9: [Conformal Prediction under Distribution Shift](https://github.c
 
 Presentation 10: [Testing for Outliers with Conformal p-values](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/10_Testing_for_Outliers_with_Conformal_p-values_Donghwan.pdf) by Donghwan Lee.  
 
+Presentation 11: [Out-of-distribution detection and Likelihood Ratio Tests](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/11_LRT_OOD_Alex.pdf) by Alex Nguyen-Le.  
+
 Presentation 12: [Online Multicalibration and No-Regret Learning](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/12_Online_Multivalid_Learning_Georgy.pdf) by Georgy Noarov.  
 
 
