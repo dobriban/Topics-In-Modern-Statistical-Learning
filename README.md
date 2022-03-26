@@ -159,6 +159,13 @@ Presentation 11: [Out-of-distribution detection and Likelihood Ratio Tests](http
 
 Presentation 12: [Online Multicalibration and No-Regret Learning](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/12_Online_Multivalid_Learning_Georgy.pdf) by Georgy Noarov.  
 
+Presentation 13: [Online Asymptotic Calibration](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/13_Online_Asymptotic_Calibration_Juan.pdf) by Juan Elenter.  
+
+Presentation 14: [Calibration in Modern ML](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/14_Calibration_Soham.pptx) by Soham Dan.  
+
+Presentation 15: [Bayesian Optimization and Some of its Applications](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/15_Bayesian_Optimization_Seong.pdf) by Seong Han.  
+
+
 
 ## Other topics
 
