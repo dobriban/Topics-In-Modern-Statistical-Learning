@@ -165,6 +165,13 @@ Presentation 14: [Calibration in Modern ML](https://github.com/dobriban/Topics-I
 
 Presentation 15: [Bayesian Optimization and Some of its Applications](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/15_Bayesian_Optimization_Seong.pdf) by Seong Han.  
 
+Presentation 16: [Distribution-free Uncertainty Quantification Impossibility and Possibility I](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/16_Distribution-free_Uncertainty_Quantification_Impossibility_and_Possibility_I.pdf) by Xinmeng Huang.
+
+Presentation 17: [Distribution-free Uncertainty Quantification Impossibility and Possibility II](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/17_Distribution-free_Uncertainty_Quantification_Impossibility_and_Possibility_II.pdf) by Shuo Li.
+
+Presentation 18: [Top-label calibration and multiclass-to-binary reductions](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/18_Top-label_calibration_and_multiclass-to-binary_reductions.pdf) by Shiyun Xu.
+
+
 
 
 ## Other topics
