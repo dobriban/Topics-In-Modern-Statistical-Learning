@@ -17,12 +17,10 @@ In addition to the core topic, there may be a (brief) discussion of a few additi
 2. Important recent papers in statistical learning theory; to set the a sense of progress on the theoretical foundations of the area.
 
 
-The class will be based mainly on student presentations of papers. We imagine a critical discussion of one or two papers 
+Part of the class will be based on student presentations of papers. We imagine a critical discussion of one or two papers 
 per lecture; and several contiguous lectures on the same theme. The goal will be to develop a deep understanding of recent research.
 
-See also the syllabus: 
-
-* [Syllabus](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Syllabus/syllabus.pdf). 
+See also the [syllabus](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Syllabus/syllabus.pdf). 
 
 
 ## Influential recent ML papers
@@ -110,21 +108,6 @@ inference methods for predictive machine learning with dependent data](http://pr
 * [Can You Trust Your Model's Uncertainty. Evaluating Predictive Uncertainty Under Dataset Shift](https://arxiv.org/abs/1906.02530)
 * [Bayesian Layers: A Module for Neural Network Uncertainty](https://proceedings.neurips.cc/paper/2019/file/154ff8944e6eac05d0675c95b5b8889d-Paper.pdf)
 
-### OOD Detection
-
-* [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://arxiv.org/abs/1807.03888)
-* [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845)
-* [Testing for Outliers with Conformal p-values](https://arxiv.org/abs/2104.08279)
-* [Conformal Anomaly Detection on Spatio-Temporal Observations with Missing Data](https://arxiv.org/abs/2105.11886)
-
-### Classical statistical goals: confidence intervals, (single and multiple) hypothesis testing
-
-* [Hartigan '1969](https://www.jstor.org/stable/2286069)
-* [E-values: Calibration, combination, and applications](https://arxiv.org/pdf/1912.06116.pdf)
-* [Universal Inference](https://arxiv.org/abs/1912.11436)
-* [Permutation-based Feature Importance Test (PermFIT)](https://www.nature.com/articles/s41467-021-22756-2)
-* [Only Closed Testing Procedures are Admissible for Controlling False Discovery Proportions](https://arxiv.org/abs/1901.04885)
-
 ## Lectures
 
 Lecture 1-2: [Introduction](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Notes/lec_1.pdf). By Edgar Dobriban. 
@@ -176,6 +159,21 @@ Presentation 18: [Top-label calibration and multiclass-to-binary reductions](htt
 
 ## Other topics
 
+
+### OOD Detection
+
+* [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://arxiv.org/abs/1807.03888)
+* [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845)
+* [Testing for Outliers with Conformal p-values](https://arxiv.org/abs/2104.08279)
+* [Conformal Anomaly Detection on Spatio-Temporal Observations with Missing Data](https://arxiv.org/abs/2105.11886)
+
+### Classical statistical goals: confidence intervals, (single and multiple) hypothesis testing
+
+* [Hartigan '1969](https://www.jstor.org/stable/2286069)
+* [E-values: Calibration, combination, and applications](https://arxiv.org/pdf/1912.06116.pdf)
+* [Universal Inference](https://arxiv.org/abs/1912.11436)
+* [Permutation-based Feature Importance Test (PermFIT)](https://www.nature.com/articles/s41467-021-22756-2)
+* [Only Closed Testing Procedures are Admissible for Controlling False Discovery Proportions](https://arxiv.org/abs/1901.04885)
 
 
 ### Inductive biases
