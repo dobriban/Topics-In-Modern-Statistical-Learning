@@ -154,6 +154,17 @@ Presentation 17: [Distribution-free Uncertainty Quantification Impossibility and
 
 Presentation 18: [Top-label calibration and multiclass-to-binary reductions](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/18_Top-label_calibration_and_multiclass-to-binary_reductions.pdf) by Shiyun Xu.
 
+Presentation 19: [Ensembles for uncertainty quantification](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/19_RahulRamesh_Ensembles.pdf) by Rahul Ramesh.
+
+Presentation 20: [Universal Inference](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/20_STAT_991__Universal_Inference.pdf) by Behrad Moniri.
+
+Presentation 21: [Typicality and OOD detection](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/21.pdf) by Eric Lei.
+
+Presentation 22: [Bayesian uncertainty quantification and dropout](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/22_Hadou_Unicertainty.pdf) by Samar Hadou.
+
+
+
+
 
 
 
