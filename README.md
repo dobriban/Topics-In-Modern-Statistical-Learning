@@ -160,9 +160,21 @@ Presentation 20: [Universal Inference](https://github.com/dobriban/Topics-In-Mod
 
 Presentation 21: [Typicality and OOD detection](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/21.pdf) by Eric Lei.
 
-Presentation 22: [Bayesian uncertainty quantification and dropout](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/22_Hadou_Unicertainty.pdf) by Samar Hadou.
+Presentation 22: [Bayesian uncertainty quantification and dropout](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/22_Hadou_Unicertainty.pdf) by Samar Hadou. (See lec 27 for an introduction).
 
+Presentation 23: [Distribution-Free Risk-Controlling Predictio Sets](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/23_Distribution-Free_Risk-Controlling_Prediction_Sets.pdf) by Ramya Ramalingam.
 
+Presentation 24: [Task-Driven Detection_of Distribution Shifts](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/24_Task-Driven_Detection_of_Distribution_Shifts.pdf) by Charis Stamouli.
+
+Presentation 25: [Calibration: a transformation-based method and a connection with adversarial robustness](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/25_calibration_stat991_SJ.pdf) by Sooyong Jang.
+
+Presentation 26: [A Theory of Universal Learning](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/26_A_Theory_of_Universal_Learning_Raghu.pdf) by Raghu Arghal.
+
+Presentation 27: [Deep Ensembles: An introduction](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/27_Deep_Ensembles.pdf) by Xiayan Ji.
+
+Presentation 28: [Why are Convolutional Nets More Sample-efficient than Fully-Connected Nets?](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/28_Convolutional_Nets_STAT991SlidesFinal.pdf) by Evangelos Chatzipantazis.
+
+Presentation 29: [E-values](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/29_rosenberg_sam_e-values_talk.pdf) by Sam Rosenberg.
 
 
 
