@@ -90,11 +90,11 @@ inference methods for predictive machine learning with dependent data](http://pr
     * [A Subjectivist View of Calibration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1592468)
   * DeGroot & Fienberg, [The Comparison and Evaluation of Forecasters](https://www.jstor.org/stable/2987588), 1983
   * Testing
-    * Early works: Cox, 1958, Miller's monograph above
+    * Early works: [Cox, 1958](https://www.jstor.org/stable/2333203), Miller's monograph above
     * [On Testing the Validity of Sequential Probability Forecasts](https://www.tandfonline.com/doi/abs/10.1080/01621459.1993.10594328)
     * [T-Cal: An optimal test for the calibration of predictive models](https://arxiv.org/abs/2203.01850)
   * On-line setting (some of it is non-probabilistic): 
-    * Foster & Vohra (1998) [Asymptotic Calibration](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1033&context=statistics_papers)
+    * Foster & Vohra (1998) [Asymptotic Calibration](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1033&context=statistics_papers). Biometrika
     * Vovk, V. and Shafer, G. (2005) [Good randomized sequential probability forecasting is always possible](https://pure.royalholloway.ac.uk/portal/files/889848/Vovk_-_Good_randomized.pdf). JRSS-B
   * Scoring rules, etc
     * Winkler, [Scoring rules and the evaluation of probabilities](https://link.springer.com/article/10.1007/BF02562681)
