@@ -51,7 +51,7 @@ Why do we need to quantify uncertainty? What are the main approaches?
   * Y-conditional: [Classification with confidence](https://www.jstor.org/stable/43304686)
   * others: [equalized coverage](https://arxiv.org/abs/1908.05428)
 * Distribution Shift
-  * [Conformal Prediction Under Covariate Shift](Conformal Prediction Under Covariate Shift)
+  * [Conformal Prediction Under Covariate Shift](https://arxiv.org/abs/1904.06019)
   * [PAC Prediction Sets Under Covariate Shift](https://arxiv.org/abs/2106.09848)
   * [Distribution-free Prediction Sets Adaptive to Unknown Covariate Shift](https://arxiv.org/abs/2203.06126) and [Doubly Robust Calibration of Prediction Sets under Covariate Shift](https://arxiv.org/abs/2203.01761)
   * [Adaptive Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2106.00170)
