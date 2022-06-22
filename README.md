@@ -54,6 +54,7 @@ Why do we need to quantify uncertainty? What are the main approaches?
   * [Conformal Prediction Under Covariate Shift](https://arxiv.org/abs/1904.06019)
   * [PAC Prediction Sets Under Covariate Shift](https://arxiv.org/abs/2106.09848)
   * [Distribution-free Prediction Sets Adaptive to Unknown Covariate Shift](https://arxiv.org/abs/2203.06126) and [Doubly Robust Calibration of Prediction Sets under Covariate Shift](https://arxiv.org/abs/2203.01761)
+  * [A Distribution-Free Test of Covariate Shift Using Conformal Prediction](https://arxiv.org/abs/2010.07147)
   * [Adaptive Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2106.00170)
 * Applications to various statistical models
   * Causal estimands and Counterfactuals: [Chernozhukov et al, An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls](https://arxiv.org/abs/1712.09089), [Cattaneo et al](https://cattaneo.princeton.edu/papers/Cattaneo-Feng-Titiunik_2021_JASA.pdf), [Lei and Candes, Conformal Inference of Counterfactuals and Individual Treatment Effects](https://arxiv.org/abs/2006.06138)
@@ -91,6 +92,7 @@ inference methods for predictive machine learning with dependent data](http://pr
   * Testing
     * Early works: Cox, 1958, Miller's monograph above
     * [On Testing the Validity of Sequential Probability Forecasts](https://www.tandfonline.com/doi/abs/10.1080/01621459.1993.10594328)
+    * [T-Cal: An optimal test for the calibration of predictive models](https://arxiv.org/abs/2203.01850)
   * On-line setting (some of it is non-probabilistic): 
     * Foster & Vohra (1998) [Asymptotic Calibration](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1033&context=statistics_papers)
     * Vovk, V. and Shafer, G. (2005) [Good randomized sequential probability forecasting is always possible](https://pure.royalholloway.ac.uk/portal/files/889848/Vovk_-_Good_randomized.pdf). JRSS-B
@@ -103,7 +105,6 @@ inference methods for predictive machine learning with dependent data](http://pr
   * [Distribution-free binary classification: prediction sets, confidence intervals and calibration](https://arxiv.org/abs/2006.10564)
   * [Beyond Pinball Loss: Quantile Methods for Calibrated Uncertainty Quantification](https://arxiv.org/abs/2011.09588)
   * [Learn then Test: Calibrating Predictive Algorithms to Achieve Risk Control](https://arxiv.org/abs/2110.01052)
-  * [T-Cal: An optimal test for the calibration of predictive models](https://arxiv.org/abs/2203.01850)
 
 ### Bayesian approaches, ensembles
 
