@@ -47,10 +47,14 @@ Why do we need to quantify uncertainty? What are the main approaches?
 * Review emphasizing exchangeability: [Exchangeability, Conformal Prediction, and Rank Tests](https://arxiv.org/abs/2005.06095)
 * [Predictive inference with the jackknife+](https://arxiv.org/abs/1905.02928). [Slides](https://github.com/dobriban/Topics-in-deep-learning/blob/master/Stat%20991%20presentations/Fall%202019/Slides/BarberSlides-whoa-psi-2019.pdf). 
 * [Nested conformal prediction and quantile out-of-bag ensemble methods](https://arxiv.org/abs/1910.10562)
-* [Adaptive Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2106.00170)
 * X-Conditional validity: Already listed above: [Mondrian Confidence Machines](http://alrw.net/old/04.pdf) (also in Vovk'05 book), [Lei & Wasserman'14](https://www.stat.cmu.edu/~ryantibs/statml/lectures/Lei-Wasserman.pdf)
   * Y-conditional: [Classification with confidence](https://www.jstor.org/stable/43304686)
   * others: [equalized coverage](https://arxiv.org/abs/1908.05428)
+* Distribution Shift
+  * [Conformal Prediction Under Covariate Shift](Conformal Prediction Under Covariate Shift)
+  * [PAC Prediction Sets Under Covariate Shift](https://arxiv.org/abs/2106.09848)
+  * [Distribution-free Prediction Sets Adaptive to Unknown Covariate Shift](https://arxiv.org/abs/2203.06126) and [Doubly Robust Calibration of Prediction Sets under Covariate Shift](https://arxiv.org/abs/2203.01761)
+  * [Adaptive Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2106.00170)
 * Applications to various statistical models
   * Causal estimands and Counterfactuals: [Chernozhukov et al, An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls](https://arxiv.org/abs/1712.09089), [Cattaneo et al](https://cattaneo.princeton.edu/papers/Cattaneo-Feng-Titiunik_2021_JASA.pdf), [Lei and Candes, Conformal Inference of Counterfactuals and Individual Treatment Effects](https://arxiv.org/abs/2006.06138)
   * Quantile regression: [Romano et al](https://arxiv.org/abs/1905.03222)
@@ -71,7 +75,7 @@ inference methods for predictive machine learning with dependent data](http://pr
   * Krishnamoorthy & Mathew: Statistical tolerance regions
 * Connections between inductive conformal prediction, training set conditional validity, tolerance regions: 
   * [Conditional validity of inductive conformal predictors](https://arxiv.org/abs/1209.2673)
-  * [PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction](https://arxiv.org/abs/2001.00106)
+  * [PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction](https://arxiv.org/abs/2001.00106); and as an application: [PAC-Wrap: Semi-Supervised PAC Anomaly Detection](https://arxiv.org/abs/2205.10798)
   * [Distribution-Free, Risk-Controlling Prediction Sets](https://arxiv.org/abs/2101.02703)
 
 
@@ -99,6 +103,7 @@ inference methods for predictive machine learning with dependent data](http://pr
   * [Distribution-free binary classification: prediction sets, confidence intervals and calibration](https://arxiv.org/abs/2006.10564)
   * [Beyond Pinball Loss: Quantile Methods for Calibrated Uncertainty Quantification](https://arxiv.org/abs/2011.09588)
   * [Learn then Test: Calibrating Predictive Algorithms to Achieve Risk Control](https://arxiv.org/abs/2110.01052)
+  * [T-Cal: An optimal test for the calibration of predictive models](https://arxiv.org/abs/2203.01850)
 
 ### Bayesian approaches, ensembles
 
@@ -189,6 +194,7 @@ Presentation 29: [E-values](https://github.com/dobriban/Topics-In-Modern-Statist
 * [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845)
 * [Testing for Outliers with Conformal p-values](https://arxiv.org/abs/2104.08279)
 * [Conformal Anomaly Detection on Spatio-Temporal Observations with Missing Data](https://arxiv.org/abs/2105.11886)
+* [iDECODe: In-distribution Equivariance for Conformal Out-of-distribution Detection](https://arxiv.org/abs/2201.02331)
 
 ### Classical statistical goals: confidence intervals, (single and multiple) hypothesis testing
 
@@ -233,6 +239,7 @@ Presentation 29: [E-values](https://github.com/dobriban/Topics-In-Modern-Statist
 
 ### Recent workshops and tutorials on related topics
 
+* [Workshop on Distribution-Free Uncertainty Quantification at ICML 2022](https://sites.google.com/berkeley.edu/dfuq22)
 * [ICML 2021 Workshop on Uncertainty & Robustness in Deep Learning](https://sites.google.com/view/udlworkshop2021/home)
 * [Workshop on Distribution-Free Uncertainty Quantification at ICML 2021](https://sites.google.com/berkeley.edu/dfuq21)
 * [NeurIPS 2020 Tutorial on Practical Uncertainty Estimation and Out-of-Distribution Robustness in Deep Learning](https://nips.cc/virtual/2020/public/tutorial_0f190e6e164eafe66f011073b4486975.html)
