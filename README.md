@@ -166,7 +166,7 @@ Presentation 19: [Ensembles for uncertainty quantification](https://github.com/d
 
 Presentation 20: [Universal Inference](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/20_STAT_991__Universal_Inference.pdf) by Behrad Moniri.
 
-Presentation 21: [Typicality and OOD detection](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/21.pdf) by Eric Lei.
+Presentation 21: [Typicality and OOD detection](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/21_typicality_ood.pdf) by Eric Lei.
 
 Presentation 22: [Bayesian uncertainty quantification and dropout](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning/blob/master/Presentations/22_Hadou_Unicertainty.pdf) by Samar Hadou. (See lec 27 for an introduction).
 
