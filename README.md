@@ -52,12 +52,15 @@ Why do we need to quantify uncertainty? What are the main approaches?
   * Y-conditional: [Classification with confidence](https://www.jstor.org/stable/43304686)
   * others: [equalized coverage](https://arxiv.org/abs/1908.05428)
 * Distribution Shift
-  * [Conformal Prediction Under Covariate Shift](https://arxiv.org/abs/1904.06019)
-  * [PAC Prediction Sets Under Covariate Shift](https://arxiv.org/abs/2106.09848)
-  * [Distribution-free Prediction Sets Adaptive to Unknown Covariate Shift](https://arxiv.org/abs/2203.06126) and [Doubly Robust Calibration of Prediction Sets under Covariate Shift](https://arxiv.org/abs/2203.01761)
-  * [A Distribution-Free Test of Covariate Shift Using Conformal Prediction](https://arxiv.org/abs/2010.07147)
-  * [Adaptive Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2106.00170)
-  * Review: [Conformal prediction beyond exchangeability](https://arxiv.org/abs/2202.13415)
+  * (essentially) known covariate shift
+    * [Conformal Prediction Under Covariate Shift](https://arxiv.org/abs/1904.06019)
+    * [PAC Prediction Sets Under Covariate Shift](https://arxiv.org/abs/2106.09848)
+  * estimated covariate shift, semiparametric efficiency
+    * [Distribution-free Prediction Sets Adaptive to Unknown Covariate Shift](https://arxiv.org/abs/2203.06126)
+    * [Doubly Robust Calibration of Prediction Sets under Covariate Shift](https://arxiv.org/abs/2203.01761)
+  * testing covariate shift: [A Distribution-Free Test of Covariate Shift Using Conformal Prediction](https://arxiv.org/abs/2010.07147)
+  * online gradient descent on the quantile loss: [Adaptive Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2106.00170)
+  * more general weighted schemes: [Conformal prediction beyond exchangeability](https://arxiv.org/abs/2202.13415)
 * Applications to various statistical models
   * Causal estimands and Counterfactuals: [Chernozhukov et al, An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls](https://arxiv.org/abs/1712.09089), [Cattaneo et al](https://cattaneo.princeton.edu/papers/Cattaneo-Feng-Titiunik_2021_JASA.pdf), [Lei and Candes, Conformal Inference of Counterfactuals and Individual Treatment Effects](https://arxiv.org/abs/2006.06138)
   * Quantile regression: [Romano et al](https://arxiv.org/abs/1905.03222)
