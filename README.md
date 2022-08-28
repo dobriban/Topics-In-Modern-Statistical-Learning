@@ -247,7 +247,9 @@ Presentation 29: [E-values](https://github.com/dobriban/Topics-In-Modern-Statist
 
 * [Workshop on Distribution-Free Uncertainty Quantification at ICML 2022](https://sites.google.com/berkeley.edu/dfuq22)
 * [ICML 2021 Workshop on Uncertainty & Robustness in Deep Learning](https://sites.google.com/view/udlworkshop2021/home)
-* [Workshop on Distribution-Free Uncertainty Quantification at ICML 2021](https://sites.google.com/berkeley.edu/dfuq21)
+* Workshop on Distribution-Free Uncertainty Quantification at ICML: [2021](https://sites.google.com/berkeley.edu/dfuq21), 
+[2022](https://sites.google.com/berkeley.edu/dfuq22)
+* [Video tutorial by AN Angelopoulos and S Bates](https://www.youtube.com/watch?v=nql000Lu_iE)
 * [NeurIPS 2020 Tutorial on Practical Uncertainty Estimation and Out-of-Distribution Robustness in Deep Learning](https://nips.cc/virtual/2020/public/tutorial_0f190e6e164eafe66f011073b4486975.html)
 
 ### Seminar series
@@ -257,6 +259,7 @@ Presentation 29: [E-values](https://github.com/dobriban/Topics-In-Modern-Statist
 * [Uncertainty Toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox), [associated papers](https://github.com/uncertainty-toolbox/uncertainty-toolbox/blob/master/docs/paper_list.md#calibration-sharpness-and-recalibration-in-deep-learning)
 * [Uncertainty Baselines](https://github.com/google/uncertainty-baselines/tree/main/baselines)
 * [MAPIE](https://github.com/scikit-learn-contrib/MAPIE), conformal-type methods
+* [crepes](https://github.com/henrikbostrom/crepes)
 
 ### Probability background
 * Penn courses STAT 430, STAT 930.
