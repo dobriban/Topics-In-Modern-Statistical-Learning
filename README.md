@@ -248,7 +248,7 @@ Presentation 29: [E-values](https://github.com/dobriban/Topics-In-Modern-Statist
 * [Workshop on Distribution-Free Uncertainty Quantification at ICML 2022](https://sites.google.com/berkeley.edu/dfuq22)
 * [ICML 2021 Workshop on Uncertainty & Robustness in Deep Learning](https://sites.google.com/view/udlworkshop2021/home)
 * Workshop on Distribution-Free Uncertainty Quantification at ICML: [2021](https://sites.google.com/berkeley.edu/dfuq21), 
-[2022](https://sites.google.com/berkeley.edu/dfuq22)
+[2022](https://sites.google.com/berkeley.edu/dfuq-22/home)
 * [Video tutorial by AN Angelopoulos and S Bates](https://www.youtube.com/watch?v=nql000Lu_iE)
 * [NeurIPS 2020 Tutorial on Practical Uncertainty Estimation and Out-of-Distribution Robustness in Deep Learning](https://nips.cc/virtual/2020/public/tutorial_0f190e6e164eafe66f011073b4486975.html)
 
