@@ -96,6 +96,7 @@ inference methods for predictive machine learning with dependent data](http://pr
   * DeGroot & Fienberg, [The Comparison and Evaluation of Forecasters](https://www.jstor.org/stable/2987588), 1983
   * Testing
     * Early works: [Cox, 1958](https://www.jstor.org/stable/2333203), Miller's monograph above
+    * [Mincer & Zamowitz: The Evaluation of Economic Forecasts (1969)](https://www.nber.org/system/files/chapters/c1214/c1214.pdf) introducing the idea of regressing the outcomes on the predicted scores; sometimes called Mincer-Zamowitz regression
     * [On Testing the Validity of Sequential Probability Forecasts](https://www.tandfonline.com/doi/abs/10.1080/01621459.1993.10594328)
     * [T-Cal: An optimal test for the calibration of predictive models](https://arxiv.org/abs/2203.01850)
   * On-line setting (some of it is non-probabilistic): 
@@ -105,7 +106,7 @@ inference methods for predictive machine learning with dependent data](http://pr
     * Winkler, [Scoring rules and the evaluation of probabilities](https://link.springer.com/article/10.1007/BF02562681)
     * Gneiting et al., [Probabilistic forecasts, calibration and sharpness](https://sites.stat.washington.edu/people/raftery/Research/PDF/Gneiting2007jrssb.pdf)
 * Modern ML
-  * [On Calibration of Modern Neural Networks](http://proceedings.mlr.press/v70/guo17a.html)
+  * [On Calibration of Modern Neural Networks](http://proceedings.mlr.press/v70/guo17a.html); suggests using Mincer-Zamowitz regression for re-calibration
   * [Measuring Calibration in Deep Learning](https://arxiv.org/abs/1904.01685)
   * [Distribution-free binary classification: prediction sets, confidence intervals and calibration](https://arxiv.org/abs/2006.10564)
   * [Beyond Pinball Loss: Quantile Methods for Calibrated Uncertainty Quantification](https://arxiv.org/abs/2011.09588)
