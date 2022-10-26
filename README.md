@@ -113,6 +113,8 @@ inference methods for predictive machine learning with dependent data](http://pr
   * [Beyond Pinball Loss: Quantile Methods for Calibrated Uncertainty Quantification](https://arxiv.org/abs/2011.09588)
   * [Learn then Test: Calibrating Predictive Algorithms to Achieve Risk Control](https://arxiv.org/abs/2110.01052)
   * [Calibration Error for Heterogeneous Treatment Effects](https://arxiv.org/abs/2203.13364)
+  * theory in random features models: [A study of uncertainty quantification in overparametrized high-dimensional models
+](https://arxiv.org/abs/2210.12760)
 
 ### Bayesian approaches, ensembles
 
