@@ -212,6 +212,7 @@ Presentation 29: [E-values](https://github.com/dobriban/Topics-In-Modern-Statist
 * [Hartigan '1969](https://www.jstor.org/stable/2286069)
 * [E-values: Calibration, combination, and applications](https://arxiv.org/pdf/1912.06116.pdf)
 * [Universal Inference](https://arxiv.org/abs/1912.11436)
+** [A Note on Universal Inference](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.501)
 * [Permutation-based Feature Importance Test (PermFIT)](https://www.nature.com/articles/s41467-021-22756-2)
 * [Only Closed Testing Procedures are Admissible for Controlling False Discovery Proportions](https://arxiv.org/abs/1901.04885)
 
