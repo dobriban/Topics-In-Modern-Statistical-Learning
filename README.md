@@ -59,7 +59,7 @@ Why do we need to quantify uncertainty? What are the main approaches?
     * [Distribution-free Prediction Sets Adaptive to Unknown Covariate Shift](https://arxiv.org/abs/2203.06126)
     * [Doubly Robust Calibration of Prediction Sets under Covariate Shift](https://arxiv.org/abs/2203.01761)
   * testing covariate shift: [A Distribution-Free Test of Covariate Shift Using Conformal Prediction](https://arxiv.org/abs/2010.07147)
-  * online gradient descent on the quantile loss: [Adaptive Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2106.00170)
+  * online gradient descent on the quantile loss: [Adaptive Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2106.00170); [aggregation](https://arxiv.org/abs/2208.08401)
   * more general weighted schemes: [Conformal prediction beyond exchangeability](https://arxiv.org/abs/2202.13415)
 * Applications to various statistical models
   * Causal estimands and Counterfactuals: [Chernozhukov et al, An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls](https://arxiv.org/abs/1712.09089), [Cattaneo et al](https://cattaneo.princeton.edu/papers/Cattaneo-Feng-Titiunik_2021_JASA.pdf), [Lei and Candes, Conformal Inference of Counterfactuals and Individual Treatment Effects](https://arxiv.org/abs/2006.06138)
@@ -115,14 +115,24 @@ inference methods for predictive machine learning with dependent data](http://pr
   * [Calibration Error for Heterogeneous Treatment Effects](https://arxiv.org/abs/2203.13364)
   * theory in random features models: [A study of uncertainty quantification in overparametrized high-dimensional models
 ](https://arxiv.org/abs/2210.12760)
+  * theory on distance to calibration: [A Unifying Theory of Distance from Calibration](https://arxiv.org/abs/2211.16886)
+
+### Types of uncertainty
+* [Kiureghian and Ditlevsen: Aleatory or epistemic? does it matter?](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=92a9b3ae0c255441d5c5ac6fa1ecaec75753fe29)
+* [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/abs/1703.04977)
 
 ### Bayesian approaches, ensembles
 
-* [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](http://proceedings.mlr.press/v48/gal16.html); [Uncertainty in Deep Learning, Yarin Gal PhD Thesis](https://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf)
-* [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/abs/1703.04977)
-* [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://arxiv.org/abs/1612.01474)
-* [Can You Trust Your Model's Uncertainty. Evaluating Predictive Uncertainty Under Dataset Shift](https://arxiv.org/abs/1906.02530)
+Baseline methods:
+* Deep ensembles: [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://arxiv.org/abs/1612.01474)
+* MC Dropout: [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](http://proceedings.mlr.press/v48/gal16.html); [Uncertainty in Deep Learning, Yarin Gal PhD Thesis](https://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf)
+* [Deep Ensembles Work, But Are They Necessary?](https://openreview.net/forum?id=Wl1ZIgMqLlq)
+
+Other approaches:
 * [Bayesian Layers: A Module for Neural Network Uncertainty](https://proceedings.neurips.cc/paper/2019/file/154ff8944e6eac05d0675c95b5b8889d-Paper.pdf)
+
+Dataset shift
+* [Can You Trust Your Model's Uncertainty. Evaluating Predictive Uncertainty Under Dataset Shift](https://arxiv.org/abs/1906.02530)
 
 ## Lectures
 
