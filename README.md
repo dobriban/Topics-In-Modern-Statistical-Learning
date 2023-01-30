@@ -49,6 +49,7 @@ Why do we need to quantify uncertainty? What are the main approaches?
 * [Nested conformal prediction and quantile out-of-bag ensemble methods](https://arxiv.org/abs/1910.10562)
 * Conditional Validity
   * X-Conditional validity: Already listed above: [Mondrian Confidence Machines](http://alrw.net/old/04.pdf) (also in Vovk'05 book), [Lei & Wasserman'14](https://www.stat.cmu.edu/~ryantibs/statml/lectures/Lei-Wasserman.pdf)
+    * [Localized Conformal Prediction](https://arxiv.org/abs/2106.08460)
   * Y-conditional: [Classification with confidence](https://www.jstor.org/stable/43304686)
   * others: [equalized coverage](https://arxiv.org/abs/1908.05428)
 * Distribution Shift
