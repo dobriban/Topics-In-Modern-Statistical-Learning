@@ -278,6 +278,7 @@ Presentation 29: [E-values](https://github.com/dobriban/Topics-In-Modern-Statist
 * [Uncertainty Baselines](https://github.com/google/uncertainty-baselines/tree/main/baselines)
 * [MAPIE](https://github.com/scikit-learn-contrib/MAPIE), conformal-type methods
 * [crepes](https://github.com/henrikbostrom/crepes)
+* [Fortuna](https://github.com/awslabs/fortuna);  [paper](https://arxiv.org/abs/2302.04019)
 
 ### Probability background
 * Penn courses STAT 430, STAT 930.
