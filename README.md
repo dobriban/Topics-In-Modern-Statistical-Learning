@@ -261,6 +261,9 @@ Presentation 29: [E-values](https://github.com/dobriban/Topics-In-Modern-Statist
 
 ## Other materials
 
+### Related educational materials
+* [Course notes from STAT 300C at Stanford University, by Emmanuel Candes; 2022 edition](https://candes.su.domains/teaching/stats300c/lectures.html)
+
 ### Recent workshops and tutorials on related topics
 
 * [Workshop on Distribution-Free Uncertainty Quantification at ICML 2022](https://sites.google.com/berkeley.edu/dfuq22)
