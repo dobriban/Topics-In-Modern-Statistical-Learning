@@ -123,6 +123,9 @@ inference methods for predictive machine learning with dependent data](http://pr
 * [Kiureghian and Ditlevsen: Aleatory or epistemic? does it matter?](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=92a9b3ae0c255441d5c5ac6fa1ecaec75753fe29)
 * [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/abs/1703.04977)
 
+### Empirics
+* [Calibrated Chaos: Variance Between Runs of Neural Network Training is Harmless and Inevitable](https://arxiv.org/abs/2304.01910)
+
 ### Bayesian approaches, ensembles
 
 Baseline methods:
