@@ -118,6 +118,12 @@ inference methods for predictive machine learning with dependent data](http://pr
   * theory in random features models: [A study of uncertainty quantification in overparametrized high-dimensional models
 ](https://arxiv.org/abs/2210.12760)
   * theory on distance to calibration: [A Unifying Theory of Distance from Calibration](https://arxiv.org/abs/2211.16886)
+* Language Models
+  * [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://arxiv.org/abs/2102.09690); LLMs have biases for generating outcomes that should a priori have pre-determined probabilities, such as 50-50
+  *   [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221); Perhaps surprisingly, LLMs are sometimes calibrated. On the other hand, there are a few limitations: (1) the results do not really hold for small models. (2) The results are not so robust (for instance they can easily break when they add the answer "none of the above")
+
+
+
 
 ### Types of uncertainty
 * [Kiureghian and Ditlevsen: Aleatory or epistemic? does it matter?](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=92a9b3ae0c255441d5c5ac6fa1ecaec75753fe29)
