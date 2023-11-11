@@ -131,7 +131,7 @@ inference methods for predictive machine learning with dependent data](http://pr
 
 ### Empirics
 * [Calibrated Chaos: Variance Between Runs of Neural Network Training is Harmless and Inevitable](https://arxiv.org/abs/2304.01910)
-* [Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation](https://arxiv.org/abs/2302.09664). Sample, cluster (via mutual entailment using a natural language inference classification system - Deberta-large model), and estimate entropy (summing over meanings).
+* [Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation](https://arxiv.org/abs/2302.09664). Sample, cluster (via mutual entailment using a natural language inference classification system - Deberta-large model), and estimate entropy (summing over meanings). Evaluate via the AUROC of a predictor of "Y  = is answer correct" based on "X = uncertainty score", implicit assumption: uncertain generations should be less likely to be correct (?).
 
 ### Bayesian approaches, ensembles
 
