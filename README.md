@@ -71,6 +71,8 @@ Why do we need to quantify uncertainty? What are the main approaches?
   * [Exact and robust conformal
 inference methods for predictive machine learning with dependent data](http://proceedings.mlr.press/v75/chernozhukov18a.html)
   * Model-Free Prediction Principle (Politis and collaborators). [book](https://www.amazon.com/Model-Free-Prediction-Regression-Transformation-Based-Probability-ebook/dp/B01827I4OQ), [brief paper](https://mathweb.ucsd.edu/~politis/PAPER/MF2.pdf)
+* Language models:
+  *  [Conformal Prediction with Large Language Models for Multi-Choice Question Answering](https://arxiv.org/abs/2305.18404)
 
 
 ### Tolerance Regions and Related Notions
