@@ -128,6 +128,23 @@ inference methods for predictive machine learning with dependent data](http://pr
   * theory on distance to calibration: [A Unifying Theory of Distance from Calibration](https://arxiv.org/abs/2211.16886)
 
 
+### Language Models
+* Calibration
+  * [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://arxiv.org/abs/2102.09690); LLMs have biases for generating outcomes that should a priori have pre-determined probabilities, such as 50-50
+  * [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221); Perhaps surprisingly, LLMs are sometimes calibrated. On the other hand, there are a few limitations: (1) the results do not really hold for small models. (2) The results are not so robust (for instance they can easily break when they add the answer "none of the above")
+  * [Teaching models to express their uncertainty in words](https://arxiv.org/pdf/2205.14334.pdf); They finetune an LLM (GPT-3) on math problems, using labels generated as the empirical accuracy over various sub-tasks; further quantized into 5 quantiles (lowest, ...). Observe that this generalizes to same task, and partly to distribution shift. Limitations include: (1) very task-specific. (2)  ad hoc grouping of tasks. (3) performance for other tasks (dist. shift) is very poor (not much better than constant baseline)
+
+* Conformal Prediction
+  * [Conformal Prediction with Large Language Models for Multi-choice Question Answering](https://arxiv.org/abs/2305.18404); Use CP based on score f.
+  * [PAC Prediction Sets for Large Language Models of Code](https://arxiv.org/abs/2302.08703)
+  * [Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners](https://arxiv.org/abs/2307.01928). Features: robot observation, user instruction, few-shot examples of possible plans in other scenarios, LLM-generated list of plans based on prev. three (call the set Y).  Outcomes: entries y in Y. Score: f(x,y).  Assume have iid sample from distribution over scenarios ξ:=(e,ℓ,g); e: POMDP environment, ℓ: language instruction, and g: goal + contexts + plans + labels (correct plan index). Handle sequences: predict at the sequence level, with fixed confidence.
+  * [Prompt Risk Control: A Rigorous Framework for Responsible Deployment of Large Language Models](https://arxiv.org/abs/2311.13628). Input a set of prompts P. Return a subset that satisfies an upper bound on) some user-chosen notion of risk R. Either  Learn-Then-Test or Quantile Risk Control (Snell et al. (2023)).
+  * [Conformal Language Modeling](https://arxiv.org/abs/2306.10193); Apply Learn-Then-Test.
+
+
+
+
+
 ### Types of uncertainty
 * [Kiureghian and Ditlevsen: Aleatory or epistemic? does it matter?](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=92a9b3ae0c255441d5c5ac6fa1ecaec75753fe29)
 * [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/abs/1703.04977)
@@ -148,20 +165,6 @@ Other approaches:
 
 Dataset shift
 * [Can You Trust Your Model's Uncertainty. Evaluating Predictive Uncertainty Under Dataset Shift](https://arxiv.org/abs/1906.02530)
-
-### Language Models
-* Calibration
-  * [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://arxiv.org/abs/2102.09690); LLMs have biases for generating outcomes that should a priori have pre-determined probabilities, such as 50-50
-  * [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221); Perhaps surprisingly, LLMs are sometimes calibrated. On the other hand, there are a few limitations: (1) the results do not really hold for small models. (2) The results are not so robust (for instance they can easily break when they add the answer "none of the above")
-  * [Teaching models to express their uncertainty in words](https://arxiv.org/pdf/2205.14334.pdf); They finetune an LLM (GPT-3) on math problems, using labels generated as the empirical accuracy over various sub-tasks; further quantized into 5 quantiles (lowest, ...). Observe that this generalizes to same task, and partly to distribution shift. Limitations include: (1) very task-specific. (2)  ad hoc grouping of tasks. (3) performance for other tasks (dist. shift) is very poor (not much better than constant baseline)
-
-* Conformal Prediction
-  * [Conformal Prediction with Large Language Models for Multi-choice Question Answering](https://arxiv.org/abs/2305.18404); Use CP based on score f.
-  * [PAC Prediction Sets for Large Language Models of Code](https://arxiv.org/abs/2302.08703)
-  * [Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners](https://arxiv.org/abs/2307.01928). Features: robot observation, user instruction, few-shot examples of possible plans in other scenarios, LLM-generated list of plans based on prev. three (call the set Y).  Outcomes: entries y in Y. Score: f(x,y).  Assume have iid sample from distribution over scenarios ξ:=(e,ℓ,g); e: POMDP environment, ℓ: language instruction, and g: goal + contexts + plans + labels (correct plan index). 
-  * [Prompt Risk Control: A Rigorous Framework for Responsible Deployment of Large Language Models](https://arxiv.org/abs/2311.13628). Input a set of prompts P. Return a subset that satisfies an upper bound on) some user-chosen notion of risk R. Either  Learn-Then-Test or Quantile Risk Control (Snell et al. (2023)).
-  * [Conformal Language Modeling](https://arxiv.org/abs/2306.10193); Apply Learn-Then-Test.
-
 
 
 ## Lectures
