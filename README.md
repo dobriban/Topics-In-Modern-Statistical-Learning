@@ -158,6 +158,9 @@ Dataset shift
 * Conformal Prediction
   * [Conformal Prediction with Large Language Models for Multi-choice Question Answering](https://arxiv.org/abs/2305.18404); Use CP based on score f.
   * [PAC Prediction Sets for Large Language Models of Code](https://arxiv.org/abs/2302.08703)
+  * [Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners](https://arxiv.org/abs/2307.01928)
+  * [Prompt Risk Control: A Rigorous Framework for Responsible Deployment of Large Language Models](https://arxiv.org/abs/2311.13628)
+  * [Conformal Language Modeling](https://arxiv.org/abs/2306.10193); Apply Learn-Then-Test.
 
 
 
