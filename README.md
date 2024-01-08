@@ -126,12 +126,6 @@ inference methods for predictive machine learning with dependent data](http://pr
   * theory in random features models: [A study of uncertainty quantification in overparametrized high-dimensional models
 ](https://arxiv.org/abs/2210.12760)
   * theory on distance to calibration: [A Unifying Theory of Distance from Calibration](https://arxiv.org/abs/2211.16886)
-* Language Models
-  * [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://arxiv.org/abs/2102.09690); LLMs have biases for generating outcomes that should a priori have pre-determined probabilities, such as 50-50
-  *   [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221); Perhaps surprisingly, LLMs are sometimes calibrated. On the other hand, there are a few limitations: (1) the results do not really hold for small models. (2) The results are not so robust (for instance they can easily break when they add the answer "none of the above")
-  * [Teaching models to express their uncertainty in words](https://arxiv.org/pdf/2205.14334.pdf); They finetune an LLM (GPT-3) on math problems, using labels generated as the empirical accuracy over various sub-tasks; further quantized into 5 quantiles (lowest, ...). Observe that this generalizes to same task, and partly to distribution shift. Limitations include: (1) very task-specific. (2)  ad hoc grouping of tasks. (3) performance for other tasks (dist. shift) is very poor (not much better than constant baseline)
-  * [Conformal Prediction with Large Language Models for Multi-choice Question Answering](https://arxiv.org/abs/2305.18404); Use CP based on score f.
-
 
 
 ### Types of uncertainty
@@ -154,6 +148,18 @@ Other approaches:
 
 Dataset shift
 * [Can You Trust Your Model's Uncertainty. Evaluating Predictive Uncertainty Under Dataset Shift](https://arxiv.org/abs/1906.02530)
+
+### Language Models
+* Calibration
+  * [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://arxiv.org/abs/2102.09690); LLMs have biases for generating outcomes that should a priori have pre-determined probabilities, such as 50-50
+  * [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221); Perhaps surprisingly, LLMs are sometimes calibrated. On the other hand, there are a few limitations: (1) the results do not really hold for small models. (2) The results are not so robust (for instance they can easily break when they add the answer "none of the above")
+  * [Teaching models to express their uncertainty in words](https://arxiv.org/pdf/2205.14334.pdf); They finetune an LLM (GPT-3) on math problems, using labels generated as the empirical accuracy over various sub-tasks; further quantized into 5 quantiles (lowest, ...). Observe that this generalizes to same task, and partly to distribution shift. Limitations include: (1) very task-specific. (2)  ad hoc grouping of tasks. (3) performance for other tasks (dist. shift) is very poor (not much better than constant baseline)
+
+* Conformal Prediction
+  * [Conformal Prediction with Large Language Models for Multi-choice Question Answering](https://arxiv.org/abs/2305.18404); Use CP based on score f.
+  * [PAC Prediction Sets for Large Language Models of Code](https://arxiv.org/abs/2302.08703)
+
+
 
 ## Lectures
 
