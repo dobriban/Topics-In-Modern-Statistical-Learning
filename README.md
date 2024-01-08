@@ -158,7 +158,7 @@ Dataset shift
 * Conformal Prediction
   * [Conformal Prediction with Large Language Models for Multi-choice Question Answering](https://arxiv.org/abs/2305.18404); Use CP based on score f.
   * [PAC Prediction Sets for Large Language Models of Code](https://arxiv.org/abs/2302.08703)
-  * [Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners](https://arxiv.org/abs/2307.01928). Features: robot observation, user instruction, few-shot examples of possible plans in other scenarios, LLM-generated list of plans based on prev. three (call the set Y).  Outcomes: entries y in Y. Score: f(x,y).
+  * [Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners](https://arxiv.org/abs/2307.01928). Features: robot observation, user instruction, few-shot examples of possible plans in other scenarios, LLM-generated list of plans based on prev. three (call the set Y).  Outcomes: entries y in Y. Score: f(x,y).  Assume have iid sample from distribution over scenarios ξ:=(e,ℓ,g); e: POMDP environment, ℓ: language instruction, and g: goal + contexts + plans + labels (correct plan index). 
   * [Prompt Risk Control: A Rigorous Framework for Responsible Deployment of Large Language Models](https://arxiv.org/abs/2311.13628). Input a set of prompts P. Return a subset that satisfies an upper bound on) some user-chosen notion of risk R. Either  Learn-Then-Test or Quantile Risk Control (Snell et al. (2023)).
   * [Conformal Language Modeling](https://arxiv.org/abs/2306.10193); Apply Learn-Then-Test.
 
