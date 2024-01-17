@@ -129,6 +129,7 @@ inference methods for predictive machine learning with dependent data](http://pr
 
 
 ### Language Models
+[Collection of links about LLM uncertainty and robustness](https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness)
 * Calibration
   * [How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering](https://arxiv.org/abs/2012.00955). [Slides](https://www.phontron.com/slides/neubig21lxmls.pdf). Investigates calibration of LMs for Q&A. Studies techniques such as "fine-tuning" (e.g., with MLE over answer set), post-hoc, and LM-specific (augmentation, paraphrasing). Find that "Post-processing Confidence is Effective Universally."
   * [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://arxiv.org/abs/2102.09690); LLMs have biases for generating outcomes that should a priori have pre-determined probabilities, such as 50-50
