@@ -113,6 +113,7 @@ inference methods for predictive machine learning with dependent data](http://pr
   * On-line setting (some of it is non-probabilistic): 
     * Foster & Vohra (1998) [Asymptotic Calibration](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1033&context=statistics_papers). Biometrika
     * Vovk, V. and Shafer, G. (2005) [Good randomized sequential probability forecasting is always possible](https://pure.royalholloway.ac.uk/portal/files/889848/Vovk_-_Good_randomized.pdf). JRSS-B
+    * Hart (2021), proving a claim from 1995: [Calibrated Forecasts: The Minimax Proof](https://arxiv.org/abs/2209.05863)
     * Lower bounds: Qiao and Valiant (2021)[Stronger Calibration Lower Bounds via Sidestepping](https://arxiv.org/abs/2012.03454)
   * Scoring rules, etc
     * Winkler, [Scoring rules and the evaluation of probabilities](https://link.springer.com/article/10.1007/BF02562681)
