@@ -97,6 +97,9 @@ inference methods for predictive machine learning with dependent data](http://pr
 
 ### Calibration
 
+* Lecture notes and summaries:
+ * Ryan Tibhsirani's [lecture at his Statistical Learning Course at Berkeley](https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/calibration.pdf)
+ * Silva Filho et al: [Classifier Calibration: A survey on how to assess and improve predicted class probabilities](https://arxiv.org/abs/2112.10327)
 * Classics
   * Sec 5.a of Robert Miller's monograph: [Statistical Prediction by Discriminant Analysis](https://link.springer.com/book/10.1007/978-1-940033-52-5) (1962). Calibration is called "validity" here.
   * [Calibration of Probabilities: The State of the Art to 1980](http://www.ccnss.org/ccn_2014/materials/pdf/sigman/callibration_probabilities_lichtenstein_fischoff_philips.pdf)
