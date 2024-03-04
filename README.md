@@ -113,6 +113,7 @@ inference methods for predictive machine learning with dependent data](http://pr
     * [Mincer & Zamowitz: The Evaluation of Economic Forecasts (1969)](https://www.nber.org/system/files/chapters/c1214/c1214.pdf) introducing the idea of regressing the outcomes on the predicted scores; sometimes called Mincer-Zamowitz regression
     * [On Testing the Validity of Sequential Probability Forecasts](https://www.tandfonline.com/doi/abs/10.1080/01621459.1993.10594328)
     * [Comparing predictive accuracy](http://www.ntuzov.com/Nik_Site/Niks_files/Research/papers/mut_funds/Diebold_Mariano_1995.pdf)
+    * Vaicenavicius et al: [Evaluating model calibration in classification](https://proceedings.mlr.press/v89/vaicenavicius19a/vaicenavicius19a.pdf)
     * Widmann et al., (2021) [Calibration tests beyond classification](https://openreview.net/forum?id=-bxf89v3Nx)
     * [T-Cal: An optimal test for the calibration of predictive models](https://arxiv.org/abs/2203.01850)
   * On-line setting (some of it is non-probabilistic): 
