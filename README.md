@@ -134,6 +134,7 @@ inference methods for predictive machine learning with dependent data](http://pr
   * theory in random features models: [A study of uncertainty quantification in overparametrized high-dimensional models
 ](https://arxiv.org/abs/2210.12760)
   * theory on distance to calibration: [A Unifying Theory of Distance from Calibration](https://arxiv.org/abs/2211.16886)
+  * connection to conformal prediction: perhaps surprisingly, calibration via temperature scaling can increase the average prediction sets sizes in CP: [On Calibration and Conformal Prediction of Deep Classifiers](https://arxiv.org/abs/2402.05806). The paper provides experimental evidence, as well as some theoretical support for this claim.
 
 
 ### Language Models
