@@ -124,6 +124,8 @@ inference methods for predictive machine learning with dependent data](http://pr
   * Scoring rules, etc
     * Winkler, [Scoring rules and the evaluation of probabilities](https://link.springer.com/article/10.1007/BF02562681)
     * Gneiting et al., [Probabilistic forecasts, calibration and sharpness](https://sites.stat.washington.edu/people/raftery/Research/PDF/Gneiting2007jrssb.pdf)
+  * Decision-making
+    * [Calibrating Predictions to Decisions: A Novel Approach to Multi-Class Calibration](https://arxiv.org/abs/2107.05719). Develops a decision theoretic perspective on calibration. Proposes a notion of decision calibration, which requires that one can use the forecast to obtain an unbiased estimate of the loss, for a class of losses and a class of Bayes-optimal decision rules for (a possibly different) class of losses. Shows that several notions of calibration are equivalent to decision calibration for specific classes of losses: for instance full multiclass calibration is equivalent to decision calibration for the class of all loss functions, while top-one (or confidence) calibration is equivalent to decision calibration for the class of actions that include the classes as well as an extension option, and penalize the abstention less than misclassification error. Also developed methods for achieving decision calibration, based on potential function ideas inspired by work on multi-calibration.
 * Modern ML
   * [On Calibration of Modern Neural Networks](http://proceedings.mlr.press/v70/guo17a.html); suggests using Mincer-Zamowitz regression for re-calibration
   * [Measuring Calibration in Deep Learning](https://arxiv.org/abs/1904.01685)
