@@ -1,4 +1,4 @@
-# STAT 991: Topics In Modern Statistical Learning (UPenn, 2022 Spring)
+# STAT 991: Uncertainty Quantification for Machine Learning (UPenn, 2022 Spring)
 
 This class surveys advanced topics in statistical learning based on student presentations. 
 
