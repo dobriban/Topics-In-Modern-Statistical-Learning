@@ -1,6 +1,6 @@
 # STAT 991: Uncertainty Quantification for Machine Learning (UPenn, 2022 Spring)
 
-This class surveys advanced topics in statistical learning based on student presentations. 
+This class surveys advanced topics in statistical learning based on student presentations, focusing on uncertainty quantification for machine learning. 
 
 The core topic of the course is uncertainty quantification for machine learning methods.
 While modern machine learning methods can have a high prediction accuracy in a variety of problems,
